@@ -1,0 +1,4 @@
+<resources>
+    <!-- metrics / keylines -->
+    <dimen name="materialize_screen_edge">24dp</dimen>
+</resources>

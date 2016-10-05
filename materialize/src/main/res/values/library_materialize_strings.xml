@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="define_materialize">year;owner</string>
+    <string name="library_materialize_author">Mike Penz</string>
+    <string name="library_materialize_authorWebsite">http://mikepenz.com/</string>
+    <string name="library_materialize_libraryName">Materialize</string>
+    <string name="library_materialize_libraryDescription">
+        <![CDATA[
+        <b>Materialize</b> comes with useful helper classes, the complete material color palette, and many additional utils. Use its theme as base. Let it manage your StatusBar, NavigationBar, Fullscreen behavior&#8230;
+        ]]>
+    </string>
+    <string name="library_materialize_libraryVersion">1.0.0</string>
+    <string name="library_materialize_libraryWebsite">https://github.com/mikepenz/Materialize</string>
+    <string name="library_materialize_licenseId">apache_2_0</string>
+    <string name="library_materialize_isOpenSource">true</string>
+    <string name="library_materialize_repositoryLink">https://github.com/mikepenz/Materialize</string>
+    <!-- Custom variables section -->
+    <string name="library_materialize_owner">Mike Penz</string>
+    <string name="library_materialize_year">2016</string>
+</resources>
