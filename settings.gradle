@@ -1,1 +1,1 @@
-include ':app', ':materialdrawer', ':materialize', ':typeface'
+include ':app', ':materialdrawer', ':materialize', ':typeface', ':fastadapter'

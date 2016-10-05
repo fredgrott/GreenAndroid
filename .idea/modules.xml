@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenAndroid.iml" filepath="$PROJECT_DIR$/GreenAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastadapter/fastadapter.iml" filepath="$PROJECT_DIR$/fastadapter/fastadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialdrawer/materialdrawer.iml" filepath="$PROJECT_DIR$/materialdrawer/materialdrawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialize/materialize.iml" filepath="$PROJECT_DIR$/materialize/materialize.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
