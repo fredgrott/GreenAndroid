@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/materialdrawer" />
             <option value="$PROJECT_DIR$/materialize" />
+            <option value="$PROJECT_DIR$/typeface" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
