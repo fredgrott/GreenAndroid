@@ -1,1 +1,1 @@
-include ':app', ':materialdrawer', ':materialize', ':typeface', ':fastadapter', ':zdepth', ':rippleeffect', ':gwsmaterial', ':androidsupportpreference', ':actionitembadge', ':itemanimators', ':crossfader'
+include ':app', ':materialdrawer', ':materialize', ':typeface', ':fastadapter', ':zdepth', ':rippleeffect', ':gwsmaterial', ':androidsupportpreference', ':actionitembadge', ':itemanimators', ':crossfader', ':crossfadedrawerlayout'
