@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenAndroid.iml" filepath="$PROJECT_DIR$/GreenAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" filepath="$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastadapter/fastadapter.iml" filepath="$PROJECT_DIR$/fastadapter/fastadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsmaterial/gwsmaterial.iml" filepath="$PROJECT_DIR$/gwsmaterial/gwsmaterial.iml" />
