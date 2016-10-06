@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/crossfadedrawerlayout/crossfadedrawerlayout.iml" filepath="$PROJECT_DIR$/crossfadedrawerlayout/crossfadedrawerlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/crossfader/crossfader.iml" filepath="$PROJECT_DIR$/crossfader/crossfader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" filepath="$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastadapter/fastadapter.iml" filepath="$PROJECT_DIR$/fastadapter/fastadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsmaterial/gwsmaterial.iml" filepath="$PROJECT_DIR$/gwsmaterial/gwsmaterial.iml" />
       <module fileurl="file://$PROJECT_DIR$/itemanimators/itemanimators.iml" filepath="$PROJECT_DIR$/itemanimators/itemanimators.iml" />
