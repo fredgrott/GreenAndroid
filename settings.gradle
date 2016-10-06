@@ -1,1 +1,1 @@
-include ':app', ':materialdrawer', ':materialize', ':typeface', ':fastadapter', ':zdepth', ':rippleeffect'
+include ':app', ':materialdrawer', ':materialize', ':typeface', ':fastadapter', ':zdepth', ':rippleeffect', ':gwsmaterial'

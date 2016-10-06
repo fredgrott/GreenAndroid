@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+         Apache 2.0 Licensed Copyright(C) 2016 Fred Grott(GrottWorkShopo)
+    A bigger material colors palette -->
+
+    <color name="gws_turquoise50">#b8f2ec</color>
+    <color name="gws_turquoise100">#9fece4</color>
+    <color name="gws_turquoise200">#8aeee3</color>
+    <color name="gws_turquoise300">#62ecdd</color>
+    <color name="gws_turquoise400">#4be9d8</color>
+    <color name="gws_turquoise500">#40e0d0</color>
+    <color name="gws_turquoise600">#34d1c0</color>
+    <color name="gws_turquoise700">#24bdad</color>
+    <color name="gws_turquoise800">#199b8d</color>
+    <color name="gws_turquoise900">#128d80</color>
+
+    <color name="gws_turquoiseA100">#d2eeee</color>
+    <color name="gws_turquoiseA200">#c1ebec</color>
+    <color name="gws_turquoiseA400">#e0ffff</color>
+    <color name="gws_turquoiseA700">#aee2e3</color>
+
+    <color name="gws_cadetblue50">#b9eef0</color>
+    <color name="gws_cadetblue100">#afe1e3</color>
+    <color name="gws_cadetblue200">#9dd7d9</color>
+    <color name="gws_cadetblue300">#87c3c5</color>
+    <color name="gws_cadetblue400">#73adaf</color>
+    <color name="gws_cadetblue500">#5f9ea0</color>
+    <color name="gws_cadetblue600">#539597</color>
+    <color name="gws_cadetblue700">#448789</color>
+    <color name="gws_cadetblue800">#316f71</color>
+    <color name="gws_cadetblue900">#1e5456</color>
+
+    <color name="gws_cadetblueA100">#13f6f9</color>
+    <color name="gws_cadetblueA200">#08fcff</color>
+    <color name="gws_cadetblueA400">#00ffff</color>
+    <color name="gws_cadetblueA700">#01e6e9</color>
+
+    <color name="gws_steelblue50">#aed0ee</color>
+    <color name="gws_steelblue100">#9cc6e9</color>
+    <color name="gws_steelblue200">#83b5e0</color>
+    <color name="gws_steelblue300">#6fa9d9</color>
+    <color name="gws_steelblue400">#5993c5</color>
+    <color name="gws_steelblue500">#4682b4</color>
+    <color name="gws_steelblue600">#3872a4</color>
+    <color name="gws_steelblue700">#2a5e89</color>
+    <color name="gws_steelblue800">#1e4b71</color>
+    <color name="gws_steelblue900">#123756</color>
+
+    <color name="gws_steelblueA100">#cfdbeb</color>
+    <color name="gws_steelblueA200">#c1d2e9</color>
+    <color name="gws_steelblueA400">#b0c4de</color>
+    <color name="gws_steelblueA700">#839cbf</color>
+
+    <color name="gws_lightsteelblue50">#dbe8f9</color>
+    <color name="gws_lightsteelblue100">#d2e1f5</color>
+    <color name="gws_lightsteelblue200">#c0d4ee</color>
+    <color name="gws_lightsteelblue300">#b5c8e3</color>
+    <color name="gws_lightsteelblue400">#b2c8e3</color>
+    <color name="gws_lightsteelblue500">#b0c4de</color>
+    <color name="gws_lightsteelblue600">#95adce</color>
+    <color name="gws_lightsteelblue700">#7591b8</color>
+    <color name="gws_lightsteelblue800">#5a779f</color>
+    <color name="gws_lightsteelblue900">#3a5579</color>
+
+    <color name="gws_lightsteelblueA100">#619aca</color>
+    <color name="gws_ligthsteelblueA200">#5993c5</color>
+    <color name="gws_lightsteelblueA400">#4682b4</color>
+    <color name="gws_lightsteelblueA700">#3973a4</color>
+
+    <color name="gws_lightblue50">#e5f1f5</color>
+    <color name="gws_lightblue100">#d9edf4</color>
+    <color name="gws_lightblue200">#d0e8f0</color>
+    <color name="gws_lightblue300">#bfe2ee</color>
+    <color name="gws_lightblue400">#b8dfec</color>
+    <color name="gws_lightblue500">#add8e6</color>
+    <color name="gws_lightblue600">#9ccad9</color>
+    <color name="gws_lightblue700">#85b8c8</color>
+    <color name="gws_lightblue800">#73abbd</color>
+    <color name="gws_lightblue900">#5e9aad</color>
+
+    <color name="gws_lightblueA100">#caeaee</color>
+    <color name="gws_lightblueA200">#c0e6eb</color>
+    <color name="gws_lightblueA400">#b0e0e6</color>
+    <color name="gws_lightblueA700">#88c3ca</color>
+
+    <color name="gws_skyblue50">#d3eef9</color>
+    <color name="gws_skyblue100">#ccecf9</color>
+    <color name="gws_skyblue200">#bfe5f5</color>
+    <color name="gws_skyblue300">#acdcf0</color>
+    <color name="gws_skyblue400">#9ad5ee</color>
+    <color name="gws_skyblue500">#87ceeb</color>
+    <color name="gws_skyblue600">#6eb5d3</color>
+    <color name="gws_skyblue700">#5397b4</color>
+    <color name="gws_skyblue800">#3b7c97</color>
+    <color name="gws_skyblue900">#316e87</color>
+
+    <color name="gws_skyblueA100">#c8e6f0</color>
+    <color name="gws_skyblueA200">#bfdfe9</color>
+    <color name="gws_skyblueA400">#add8e6</color>
+    <color name="gws_skyblueA700">#87b9ca</color>
+
+    <color name="gws_lightskyblue50">#ddf2ff</color>
+    <color name="gws_lightskyblue100">#cee9fb</color>
+    <color name="gws_lightskyblue200">#c2e7ff</color>
+    <color name="gws_lightskyblue300">#addbf9</color>
+    <color name="gws_lightskyblue400">#9ed7fb</color>
+    <color name="gws_lightskyblue500">#87cefa</color>
+    <color name="gws_lightskyblue600">#76beeb</color>
+    <color name="gws_lightskyblue700">#64abd9</color>
+    <color name="gws_ligthskyblue800">#4c93bf</color>
+    <color name="gws_ligthskyblue900">#3979a2</color>
+
+    <color name="gws_lightskyblueA100">#a0d8f0</color>
+    <color name="gws_lightskyblueA200">#94d2eb</color>
+    <color name="gws_lightskyblueA400">#87ceeb</color>
+    <color name="gws_lightskyblueA700">#6ab8d9</color>
+
+    <color name="gws_deepskyblue50">#6cd3f5</color>
+    <color name="gws_deepskyblue100">#62d1f5</color>
+    <color name="gws_deepskyblue200">#4acef9</color>
+    <color name="gws_deepskyblue300">#28c2f5</color>
+    <color name="gws_deepskyblue400">#10c1fb</color>
+    <color name="gws_deepskyblue500">#00bfff</color>
+    <color name="gws_deepskyblue600">#01b5f0</color>
+    <color name="gws_deepskyblue700">#02a8de</color>
+    <color name="gws_deepskyblue800">#0195c5</color>
+    <color name="gws_deepskyblue900">#037297</color>
+
+    <color name="gws_deepskyblueA100">#a5dafb</color>
+    <color name="gws_deepskyblueA200">#9dd6fb</color>
+    <color name="gws_deepskyblueA400">#87cefa</color>
+    <color name="gws_deepskyblueA700">#6cbaeb</color>
+
+    <color name="gws_dodgerblue50">#94cbff</color>
+    <color name="gws_dodgerblue100">#85c4ff</color>
+    <color name="gws_dodgerblue200">#68b6ff</color>
+    <color name="gws_dodgerblue300">#4da9ff</color>
+    <color name="gws_dodgerblue400">#379fff</color>
+    <color name="gws_dodgerblue500">#1e90ff</color>
+    <color name="gws_dodgerblue600">#1686ee</color>
+    <color name="gws_dodgerblue700">#1179d9</color>
+    <color name="gws_dodgerblue800">#0d5eaa</color>
+    <color name="gws_dodgerblue900">#0a4b87</color>
+
+    <color name="gws_dodgerblueA100">#1bc4fb</color>
+    <color name="gws_dodgerblueA200">#10c4ff</color>
+    <color name="gws_dodgerblueA400">#00bfff</color>
+    <color name="gws_dodgerblueA700">#01a9e0</color>
+
+    <color name="gws_cornflowerblue50">#c6d8f9</color>
+    <color name="gws_cornflowerblue100">#b8cdf5</color>
+    <color name="gws_cornflowerblue200">#a7c3f5</color>
+    <color name="gws_cornflowerblue300">#92b3f0</color>
+    <color name="gws_cornflowerblue400">#7ca4ee</color>
+    <color name="gws_cornflowerblue500">#6495ed</color>
+    <color name="gws_cornflowerblue600">#5789e3</color>
+    <color name="gws_cornflowerblue700">#4372c8</color>
+    <color name="gws_cornflowerblue800">#3662b3</color>
+    <color name="gws_cornflowerblue900">#2f569d</color>
+
+    <color name="gws_cornflowerblueA100">#51a9fb</color>
+    <color name="gws_cornflowerblueA200">#339dff</color>
+    <color name="gws_cornflowerblueA400">#1e90ff</color>
+    <color name="gws_cornflowerblueA700">#127fe5</color>
+
+    <color name="gws_royalblue50">#adc0f4</color>
+    <color name="gws_royalblue100">#9ab1f0</color>
+    <color name="gws_royalblue200">#829ce9</color>
+    <color name="gws_royalblue300">#6786e0</color>
+    <color name="gws_royalblue400">#4e74e0</color>
+    <color name="gws_royalblue500">#4169e1</color>
+    <color name="gws_royalblue600">#3860d3</color>
+    <color name="gws_royalblue700">#2a4fb8</color>
+    <color name="gws_royalblue800">#193a97</color>
+    <color name="gws_royalblue900">#102c7e</color>
+
+    <color name="gws_royalblueA100">#9ebcf5</color>
+    <color name="gws_royalblueA200">#8baff0</color>
+    <color name="gws_royalblueA400">#6495ed</color>
+    <color name="gws_royalblueA700">#4f80d9</color>
+
+    <color name="gws_darkblue50">#5959e5</color>
+    <color name="gws_darkblue100">#4b4be0</color>
+    <color name="gws_darkblue200">#2f2fce</color>
+    <color name="gws_darkblue300">#1919bf</color>
+    <color name="gws_darkblue400">#0707a8</color>
+    <color name="gws_darkblue500">#00008b</color>
+    <color name="gws_darkblue600">#000073</color>
+    <color name="gws_darkblue700">#000053</color>
+    <color name="gws_darkblue800">#010136</color>
+    <color name="gws_darkblue900">#00001c</color>
+
+    <color name="gws_darkblueA100">#f0ffff</color>
+    <color name="gws_darkblueA200">#cae3e3</color>
+    <color name="gws_darkblueA400">#90b8b8</color>
+    <color name="gws_darkblueA700">#5b8c8d</color>
+
+    <color name="gws_orchid50">#f4ccf3</color>
+    <color name="gws_orchid100">#f4bcf2</color>
+    <color name="gws_orchid200">#f0a2ed</color>
+    <color name="gws_orchid300">#eb90e8</color>
+    <color name="gws_orchid400">#e580e1</color>
+    <color name="gws_orchid500">#da70d6</color>
+    <color name="gws_orchid600">#c85fc4</color>
+    <color name="gws_orchid700">#af4cac</color>
+    <color name="gws_orchid800">#973b94</color>
+    <color name="gws_orchid900">#822a7f</color>
+
+    <color name="gws_orchidA100">#f4a5f3</color>
+    <color name="gws_orchidA200">#f596f4</color>
+    <color name="gws_orchidA400">#ee82ee</color>
+    <color name="gws_orchidA700">#ce61cd</color>
+
+    <color name="gws_mediumorchid50">#e9baf5</color>
+    <color name="gws_mediumorchid100">#e4a6f4</color>
+    <color name="gws_mediumorchid200">#de96f0</color>
+    <color name="gws_mediumorchid300">#d57eeb</color>
+    <color name="gws_mediumorchid400">#c769de</color>
+    <color name="gws_mediumorchid500">#ba55d3</color>
+    <color name="gws_mediumorchid600">#aa45c3</color>
+    <color name="gws_mediumorchid700">#9638ad</color>
+    <color name="gws_mediumorchid800">#842e99</color>
+    <color name="gws_mediumorchid900">#742687</color>
+
+    <color name="gws_mediumorchidA100">#ebb8ea</color>
+    <color name="gws_mediumorchidA200">#e3aee2</color>
+    <color name="gws_mediumorchidA400">#dda0dd</color>
+    <color name="gws_mediumorchidA700">#bf7cbe</color>
+
+    <color name="gws_violet50">#eec7ee</color>
+    <color name="gws_violet100">#f0c5ef</color>
+    <color name="gws_violet200">#eeb1ed</color>
+    <color name="gws_violet300">#e99de8</color>
+    <color name="gws_violet400">#ee8eed</color>
+    <color name="gws_violet500">#ee82ee</color>
+    <color name="gws_violet600">#da6dd9</color>
+    <color name="gws_violet700">#bd57bc</color>
+    <color name="gws_violet800">#a845a7</color>
+    <color name="gws_violet900">#923491</color>
+
+    <color name="gws_violetA100">#e9bbe8</color>
+    <color name="gws_violetA200">#e5abe4</color>
+    <color name="gws_violetA400">#dda0dd</color>
+    <color name="gws_violetA700">#c887c7</color>
+
+    <color name="gws_mediumpurple50">#dcd1f4</color>
+    <color name="gws_mediumpurple100">#d1bff5</color>
+    <color name="gws_mediumpurple200">#c6aff4</color>
+    <color name="gws_mediumpurple300">#b89af4</color>
+    <color name="gws_mediumpurple400">#a685e9</color>
+    <color name="gws_mediumpurple500">#9370db</color>
+    <color name="gws_mediumpurple600">#8562ce</color>
+    <color name="gws_mediumpurple700">#6a49af</color>
+    <color name="gws_mediumpurple800">#553692</color>
+    <color name="gws_mediumpurple900">#402577</color>
+
+    <color name="gws_mediumpurpleA100">#fdeef4</color>
+    <color name="gws_mediumpurpleA200">#e5c7d3</color>
+    <color name="gws_mediumpurpleA400">#caa5b4</color>
+    <color name="gws_mediumpurpleA700">#a46d83</color>
+
+    <color name="gws_amethyst50">#dac7ee</color>
+    <color name="gws_amethyst100">#d1b7eb</color>
+    <color name="gws_amethyst200">#c5a2e9</color>
+    <color name="gws_amethyst300">#b488e0</color>
+    <color name="gws_amethyst400">#ab79de</color>
+    <color name="gws_amethyst500">#9966cc</color>
+    <color name="gws_amethyst600">#8552ba</color>
+    <color name="gws_amethyst700">#6f419f</color>
+    <color name="gws_amethyst800">#5a3084</color>
+    <color name="gws_amethyst900">#46216c</color>
+
+    <color name="gws_amethystA100">#bba7e5</color>
+    <color name="gws_amethystA200">#a98ce5</color>
+    <color name="gws_amethystA400">#9370db</color>
+    <color name="gws_amethystA700">#7c59c5</color>
+
+    <color name="gws_blueviolet50">#c394ee</color>
+    <color name="gws_blueviolet100">#b577ee</color>
+    <color name="gws_blueviolet200">#aa61ee</color>
+    <color name="gws_blueviolet300">#a14df0</color>
+    <color name="gws_blueviolet400">#963aeb</color>
+    <color name="gws_blueviolet500">#8a2be2</color>
+    <color name="gws_blueviolet600">#7c22cf</color>
+    <color name="gws_blueviolet700">#6c17ba</color>
+    <color name="gws_blueviolet800">#550e97</color>
+    <color name="gws_blueviolet900">#460a7e</color>
+
+    <color name="gws_bluevioletA100">#a902ee</color>
+    <color name="gws_bluevioletA200">#9b00dc</color>
+    <color name="gws_bluevioletA400">#9400d3</color>
+    <color name="gws_bluevioletA700">#7c00af</color>
+
+    <color name="gws_darkorchid50">#d495f4</color>
+    <color name="gws_darkorchid100">#d18ef4</color>
+    <color name="gws_darkorchid200">#c878f2</color>
+    <color name="gws_darkorchid300">#b656e7</color>
+    <color name="gws_darkorchid400">#a742dc</color>
+    <color name="gws_darkorchid500">#9932cc</color>
+    <color name="gws_darkorchid600">#8926bd</color>
+    <color name="gws_darkorchid700">#781ca8</color>
+    <color name="gws_darkorchid800">#64148d</color>
+    <color name="gws_darkorchid900">#4f0d71</color>
+
+    <color name="gws_darkorchidA100">#bb8fe9</color>
+    <color name="gws_darkorchidA200">#ad7cde</color>
+    <color name="gws_darkorchidA400">#9966cc</color>
+    <color name="gws_darkorchidA700">#824cb8</color>
+
+    <color name="gws_indigo50">#930af2</color>
+    <color name="gws_indigo100">#8b05e9</color>
+    <color name="gws_indigo200">#7e04d3</color>
+    <color name="gws_indigo300">#7004bc</color>
+    <color name="gws_indigo400">#5e039d</color>
+    <color name="gws_indigo500">#4b0082</color>
+    <color name="gws_indigo600">#40016c</color>
+    <color name="gws_indigo700">#330156</color>
+    <color name="gws_indigo800">#26023f</color>
+    <color name="gws_indigo900">#150124</color>
+
+    <color name="gws_indigoA100">#9a8dec</color>
+    <color name="gws_indigoA200">#8677de</color>
+    <color name="gws_indigoA400">#6a5acd</color>
+    <color name="gws_indigoA700">#5848ba</color>
+
+    <color name="gws_slateblue50">#b8afec</color>
+    <color name="gws_slateblue100">#aa9fec</color>
+    <color name="gws_slateblue200">#9d90e9</color>
+    <color name="gws_slateblue300">#887bdc</color>
+    <color name="gws_slateblue400">#7b6cd3</color>
+    <color name="gws_slateblue500">#6a5acd</color>
+    <color name="gws_slateblue600">#5847ba</color>
+    <color name="gws_slateblue700">#4a3ba8</color>
+    <color name="gws_slateblue800">#3c2e92</color>
+    <color name="gws_slateblue900">#2c2079</color>
+
+    <color name="gws_slateblueA100">#6d03b8</color>
+    <color name="gws_slateblueA200">#6001a2</color>
+    <color name="gws_slateblueA400">#4b0082</color>
+    <color name="gws_slateblueA700">#390061</color>
+
+    <color name="gws_darkslateblue50">#aea6de</color>
+    <color name="gws_darkslateblue100">#9c93d3</color>
+    <color name="gws_darkslateblue200">#857bc1</color>
+    <color name="gws_darkslateblue300">#6e64ab</color>
+    <color name="gws_darklsatelbue400">#564b96</color>
+    <color name="gws_darkslateblue500">#483d8b</color>
+    <color name="gws_darklsateblue600">#372d77</color>
+    <color name="gws_darkslateblue700">#29205f</color>
+    <color name="gws_darkslateblue800">#1c154a</color>
+    <color name="gws_darkslatelbue900">#0e0929</color>
+
+    <color name="gws_darkslateblueA100">#9d90e9</color>
+    <color name="gws_dakrslateblueA200">#8576dc</color>
+    <color name="gws_darkslateblueA400">#6a5acd</color>
+    <color name="gws_darkslateblueA700">#4f3fad</color>
+
+    <color name="gws_pink50">#f5e7e9</color>
+    <color name="gws_pink100">#fbe7eb</color>
+    <color name="gws_pink200">#f9dce1</color>
+    <color name="gws_pink300">#fbd2d8</color>
+    <color name="gws_pink400">#ffc8d1</color>
+    <color name="gws_pink500">#ffc0cb</color>
+    <color name="gws_pink600">#eea6b2</color>
+    <color name="gws_pink700">#da8c99</color>
+    <color name="gws_pink800">#c87683</color>
+    <color name="gws_pink900">#af5b69</color>
+
+    <color name="gws_pinkA100">#eb94b1</color>
+    <color name="gws_pinkA200">#e37c9e</color>
+    <color name="gws_pinkA400">#db7093</color>
+    <color name="gws_pinkA700">#c3587b</color>
+
+    <color name="gws_khakirose50">#f2d1d0</color>
+    <color name="gws_khakirose100">#ecc9c7</color>
+    <color name="gws_khakirose200">#dcb3b1</color>
+    <color name="gws_khakirose300">#d3a3a1</color>
+    <color name="gws_khakirose400">#ce9d9a</color>
+    <color name="gws_khakirose500">#c5908e</color>
+    <color name="gws_khakirose600">#b67b78</color>
+    <color name="gws_khakirose700">#a26461</color>
+    <color name="gws_khakirose800">#8b504d</color>
+    <color name="gws_khakirose900">#773f3c</color>
+
+    <color name="gws_khakiroseA100">#f78abd</color>
+    <color name="gws_khakiroseA200">#f279b2</color>
+    <color name="gws_khakiroseA400">#e45e9d</color>
+    <color name="gws_khakiroseA700">#c84181</color>
+
+    <color name="gws_carnationpink50">#f2d2dc</color>
+    <color name="gws_carnationpink100">#f2c8d6</color>
+    <color name="gws_carnationpink200">#f2b8cb</color>
+    <color name="gws_carnationpink300">#f4a0bc</color>
+    <color name="gws_carnationpink400">#f787ac</color>
+    <color name="gws_carnationpink500">#f778a1</color>
+    <color name="gws_carnationpink600">#e3648e</color>
+    <color name="gws_carnationpink700">#c84e76</color>
+    <color name="gws_carnationpink800">#b14065</color>
+    <color name="gws_carnationpink900">#923151</color>
+
+    <color name="gws_carnationpinkA100">#dc4b88</color>
+    <color name="gws_carnationpinkA200">#d33b7b</color>
+    <color name="gws_carnationpinkA400">#c12869</color>
+    <color name="gws_carnationpinkA700">#9b184f</color>
+
+    <color name="gws_hotpink50">#fbc5cf</color>
+    <color name="gws_hotpink100">#ffb5c3</color>
+    <color name="gws_hotpink200">#ff9fb1</color>
+    <color name="gws_hotpink300">#ff8ba1</color>
+    <color name="gws_hotpink400">#ff7891</color>
+    <color name="gws_hotpink500">#ff6984</color>
+    <color name="gws_hotpink600">#f05976</color>
+    <color name="gws_hotpink700">#d54460</color>
+    <color name="gws_hotpink800">#c3344f</color>
+    <color name="gws_hotpink900">#b32a44</color>
+
+    <color name="gws_hotpinkA100">#ffebee</color>
+    <color name="gws_hotpinkA200">#ffdae0</color>
+    <color name="gws_hotpinkA400">#ffc0cb</color>
+    <color name="gws_hotpinkA700">#eba0ad</color>
+
+    <color name="gws_deeppink50">#f969b7</color>
+    <color name="gws_deeppink100">#fb58b0</color>
+    <color name="gws_deeppink200">#ff49ab</color>
+    <color name="gws_deeppink300">#ff2e9f</color>
+    <color name="gws_deeppink400">#fb1f96</color>
+    <color name="gws_deeppink500">#ff1493</color>
+    <color name="gws_deeppink600">#f50f8c</color>
+    <color name="gws_deeppink700">#da097a</color>
+    <color name="gws_deeppink800">#c50b70</color>
+    <color name="gws_deeppink900">#a2075b</color>
+
+    <color name="gws_deeppinkA100">#f9d3d8</color>
+    <color name="gws_deeppinkA200">#fbc1c9</color>
+    <color name="gws_deeppinkA400">#ffb6c1</color>
+    <color name="gws_deeppinkA700">#e9919e</color>
+
+    <color name="gws_mediumvioletred50">#f46ac2</color>
+    <color name="gws_mediumvioletred100">#ee4db3</color>
+    <color name="gws_mediumvioletred200">#e93eab</color>
+    <color name="gws_mediumvioletred300">#de2c9d</color>
+    <color name="gws_mediumvioletred400">#d52093</color>
+    <color name="gws_mediumvioletred500">#c71585</color>
+    <color name="gws_mediumvioletred600">#c30f81</color>
+    <color name="gws_mediumvioletred700">#ad0971</color>
+    <color name="gws_mediumvioletred800">#890458</color>
+    <color name="gws_mediumvioletred900">#670342</color>
+
+    <color name="gws_mediumvioletredA100">#ee9ab6</color>
+    <color name="gws_mediumvioletredA200">#eb88a9</color>
+    <color name="gws_mediumvioletredA400">#db7093</color>
+    <color name="gws_mediumvioletredA700">#c55278</color>
+
+    <color name="gws_tulippink50">#f9ccdb</color>
+    <color name="gws_tulippink100">#f5bace</color>
+    <color name="gws_tulippink200">#eea1ba</color>
+    <color name="gws_tulippink300">#e583a3</color>
+    <color name="gws_tulippink400">#d56b8e</color>
+    <color name="gws_tulippink500">#c25a7c</color>
+    <color name="gws_tulippink600">#ad4366</color>
+    <color name="gws_tulippink700">#9d3457</color>
+    <color name="gws_tulippink800">#892445</color>
+    <color name="gws_tulippink900">#6c1331</color>
+
+    <color name="gws_tulippinkA100">#f2d7f4</color>
+    <color name="gws_tulippinkA200">#ecbff0</color>
+    <color name="gws_tulippinkA400">#e6a9ec</color>
+    <color name="gws_tulippinkA700">#ce82d5</color>
+
+    <color name="gws_plum50">#f2a3d7</color>
+    <color name="gws_plum100">#e98eca</color>
+    <color name="gws_plum200">#e778c1</color>
+    <color name="gws_plum300">#dc63b3</color>
+    <color name="gws_plum400">#c84b9d</color>
+    <color name="gws_plum500">#b93b8f</color>
+    <color name="gws_plum600">#af2d83</color>
+    <color name="gws_plum700">#901c68</color>
+    <color name="gws_plum800">#711251</color>
+    <color name="gws_plum900">#5a0b3f</color>
+
+    <color name="gws_plumA100">#fcdaff</color>
+    <color name="gws_plumA200">#fbceff</color>
+    <color name="gws_plumA400">#f9b7ff</color>
+    <color name="gws_plumA700">#e29ae9</color>
+
+    <color name="gws_crimson50">#f7bcfb</color>
+    <color name="gws_crimson100">#f0a5f5</color>
+    <color name="gws_crimson200">#ea87f0</color>
+    <color name="gws_crimson300">#e864f0</color>
+    <color name="gws_crimson400">#e648f0</color>
+    <color name="gws_crimson500">#e238ec</color>
+    <color name="gws_crimson600">#cb2dd5</color>
+    <color name="gws_crimson700">#af20b8</color>
+    <color name="gws_crimson800">#87148e</color>
+    <color name="gws_crimson900">#6b0d71</color>
+
+    <color name="gws_crimsonA100">#e1a1f9</color>
+    <color name="gws_crimsonA200">#d47ff4</color>
+    <color name="gws_crimsonA400">#c45aec</color>
+    <color name="gws_crimsonA700">#a23cc8</color>
+
+    <color name="gws_fuchsia50">#f991f8</color>
+    <color name="gws_fuchsia100">#f579f4</color>
+    <color name="gws_fuchsia200">#f958f7</color>
+    <color name="gws_fuchsia300">#fb2cf9</color>
+    <color name="gws_fuchsia400">#ff0efc</color>
+    <color name="gws_fuchsia500">#ff00ff</color>
+    <color name="gws_fuchsia600">#f001ed</color>
+    <color name="gws_fuchsia700">#d501d3</color>
+    <color name="gws_fuchsia800">#9d039b</color>
+    <color name="gws_fuchsia900">#6e016d</color>
+
+    <color name="gws_fuchsiaA100">#f4aaf1</color>
+    <color name="gws_fuchsiaA200">#e987e6</color>
+    <color name="gws_fuchsiaA400">#da70d6</color>
+    <color name="gws_fuchsiaA700">#c559c1</color>
+
+    <color name="gws_darkmagenta50">#f402f1</color>
+    <color name="gws_darkmagenta100">#e705e4</color>
+    <color name="gws_darkmagenta200">#cc04ca</color>
+    <color name="gws_darkmagenta300">#af01ad</color>
+    <color name="gws_darkmagenta400">#960394</color>
+    <color name="gws_darkmagenta500">#8b008b</color>
+    <color name="gws_darkmagenta600">#7a0279</color>
+    <color name="gws_darkmagenta700">#610360</color>
+    <color name="gws_darkmagenta800">#4a0249</color>
+    <color name="gws_darkmagenta900">#2f012e</color>
+
+    <color name="gws_darkmagentaA100">#ab47de</color>
+    <color name="gws_darkmagentaA200">#b353e5</color>
+    <color name="gws_darkmagentaA400">#9932cc</color>
+    <color name="gws_darkmagentaA700">#8321b6</color>
+
+    <color name="gws_lightsalmon50">#f7e4dd</color>
+    <color name="gws_lightsalmon100">#f9d7c9</color>
+    <color name="gws_lightsalmon200">#fdcebc</color>
+    <color name="gws_lightsalmon300">#fdb89d</color>
+    <color name="gws_lightsalmon400">#ffae8e</color>
+    <color name="gws_lightsalmon500">#ffa07a</color>
+    <color name="gws_lightsalmon600">#ee8a62</color>
+    <color name="gws_lightsalmon700">#d9754e</color>
+    <color name="gws_lightsalmon800">#c15d36</color>
+    <color name="gws_lightsalmon900">#ad502b</color>
+
+    <color name="gws_lightsalmonA100">#f2b19a</color>
+    <color name="gws_lightsalmonA200">#eca187</color>
+    <color name="gws_ligthsalmonA400">#e9967a</color>
+    <color name="gws_lightsalmonA700">#d37d5e</color>
+
+    <color name="gws_salmon50">#ffdcd8</color>
+    <color name="gws_salmon100">#ffd5d1</color>
+    <color name="gws_salmon200">#fbc1bb</color>
+    <color name="gws_salmon300">#f9a69d</color>
+    <color name="gws_salmon400">#f58c81</color>
+    <color name="gws_salmon500">#fa8072</color>
+    <color name="gws_salmon600">#e3695d</color>
+    <color name="gws_salmon700">#cf5649</color>
+    <color name="gws_salmon800">#ba483c</color>
+    <color name="gws_salmon900">#a83b30</color>
+
+    <color name="gws_salmonA100">#f4b6b6</color>
+    <color name="gws_salmonA200">#f59b9b</color>
+    <color name="gws_salmonA400">#f08080</color>
+    <color name="gws_salmonA700">#d95a5a</color>
+
+    <color name="gws_lightcoral50">#f5e2e2</color>
+    <color name="gws_ligthcoral100">#f9d8d8</color>
+    <color name="gws_lightcoral200">#f5bfbf</color>
+    <color name="gws_lightcoral300">#f4a9a9</color>
+    <color name="gws_lightcoral400">#f49191</color>
+    <color name="gws_lightcoral500">#f08080</color>
+    <color name="gws_lightcoral600">#da6c6c</color>
+    <color name="gws_lightcoral700">#ba5252</color>
+    <color name="gws_lightcoral800">#aa4444</color>
+    <color name="gws_lightcoral900">#9f3838</color>
+
+    <color name="gws_ligthcoralA100">#e58585</color>
+    <color name="gws_lightcoralA200">#de6f6f</color>
+    <color name="gws_lightcoralA400">#cd5c5c</color>
+    <color name="gws_lightcoralA700">#b44242</color>
+
+    <color name="gws_valentinered50">#fbc8c7</color>
+    <color name="gws_valentinered100">#f9b7b6</color>
+    <color name="gws_valentinered200">#f9a09e</color>
+    <color name="gws_valentinered300">#f58380</color>
+    <color name="gws_valentinered400">#f06764</color>
+    <color name="gws_valentinered500">#e55451</color>
+    <color name="gws_valentinered600">#d34642</color>
+    <color name="gws_valentinered700">#b8312e</color>
+    <color name="gws_valentinered800">#9d211e</color>
+    <color name="gws_valentinered900">#7e1310</color>
+
+    <color name="gws_valentineredA100">#f9a3a1</color>
+    <color name="gws_valentineredA200">#f9807d</color>
+    <color name="gws_valentineredA400">#f75d59</color>
+    <color name="gws_valentineredA700">#c53a37</color>
+
+    <color name="gws_scarlet50">#f9836f</color>
+    <color name="gws_scarlet100">#fb715b</color>
+    <color name="gws_scarlet200">#fb5c42</color>
+    <color name="gws_scarlet300">#fb4122</color>
+    <color name="gws_scarlet400">#fb2f0e</color>
+    <color name="gws_scarlet500">#ff2400</color>
+    <color name="gws_scarlet600">#e32000</color>
+    <color name="gws_scarlet700">#c51c00</color>
+    <color name="gws_scarlet800">#a41801</color>
+    <color name="gws_scarlet900">#711102</color>
+
+    <color name="gws_scarletA100">#f57d61</color>
+    <color name="gws_scarletA200">#f06a4b</color>
+    <color name="gws_scarletA400">#e55b3c</color>
+    <color name="gws_scarletA700">#ca4729</color>
+
+    <color name="gws_lavared50">#f46f68</color>
+    <color name="gws_lavared100">#f5635c</color>
+    <color name="gws_lavared200">#f95148</color>
+    <color name="gws_lavared300">#f4382f</color>
+    <color name="gws_lavared400">#ee2a21</color>
+    <color name="gws_lavared500">#e42217</color>
+    <color name="gws_lavared600">#cf160d</color>
+    <color name="gws_lavared700">#bd120a</color>
+    <color name="gws_lavared800">#a81009</color>
+    <color name="gws_lavared900">#890b04</color>
+
+    <color name="gws_lavaredA100">#f54b3e</color>
+    <color name="gws_lavaredA200">#f53829</color>
+    <color name="gws_lavaredA400">#f62817</color>
+    <color name="gws_lavaredA700">#e01d0e</color>
+
+    <color name="gws_crimsonred50">#f0728a</color>
+    <color name="gws_crimsonred100">#f05874</color>
+    <color name="gws_crimsonred200">#ee3f60</color>
+    <color name="gws_crimsonred300">#e92f52</color>
+    <color name="gws_crimsonred400">#e01d42</color>
+    <color name="gws_crimsonred500">#dc143c</color>
+    <color name="gws_crimsonred600">#c30c2f</color>
+    <color name="gws_crimsonred700">#9f0925</color>
+    <color name="gws_crimsonred800">#79071c</color>
+    <color name="gws_crimsonred900">#670618</color>
+
+    <color name="gws_crimsonredA100">#fb2d2d</color>
+    <color name="gws_crimsonredA200">#ff1414</color>
+    <color name="gws_crimsonredA400">#ff0000</color>
+    <color name="gws_crimsonredA700">#da0202</color>
+
+    <color name="gws_cherryred50">#f59995</color>
+    <color name="gws_cherryred100">#ee847f</color>
+    <color name="gws_cherryred200">#eb736d</color>
+    <color name="gws_cherryred300">#e3655e</color>
+    <color name="gws_cherryred400">#d55650</color>
+    <color name="gws_cherryred500">#c24641</color>
+    <color name="gws_cherryred600">#af3630</color>
+    <color name="gws_cherryred700">#992a24</color>
+    <color name="gws_cherryred800">#7e201b</color>
+    <color name="gws_cherryred900">#6e1713</color>
+
+    <color name="gws_cherryredA100">#f46851</color>
+    <color name="gws_cherryredA200">#eb482d</color>
+    <color name="gws_cherryredA400">#dc381f</color>
+    <color name="gws_cherryredA700">#bf2c13</color>
+
+    <color name="gws_grapefruit50">#f09283</color>
+    <color name="gws_grapefruit100">#ee8776</color>
+    <color name="gws_grapefruit200">#f07460</color>
+    <color name="gws_grapefruit300">#eb5941</color>
+    <color name="gws_grapefruit400">#e5462c</color>
+    <color name="gws_grapefruit500">#dc381f</color>
+    <color name="gws_grapefruit600">#c82c13</color>
+    <color name="gws_grapefruit700">#b4260e</color>
+    <color name="gws_grapefruit800">#971e0a</color>
+    <color name="gws_grapefruit900">#731304</color>
+
+    <color name="gws_grapefruitA100">#d35d57</color>
+    <color name="gws_grapefruitA200">#bf4b45</color>
+    <color name="gws_grapefruitA400">#c24641</color>
+    <color name="gws_grapefruitA700">#a8312b</color>
+
+    <color name="gws_chillipepper50">#f9918f</color>
+    <color name="gws_chillipepper100">#f47673</color>
+    <color name="gws_chillipepper200">#ee5854</color>
+    <color name="gws_chillipepper300">#e33d39</color>
+    <color name="gws_chillipepper400">#d32e2a</color>
+    <color name="gws_chillipepper500">#c11b17</color>
+    <color name="gws_chillipepper600">#af1410</color>
+    <color name="gws_chillipepper700">#920e0b</color>
+    <color name="gws_chillipepper800">#7c0805</color>
+    <color name="gws_chillipepper900">#610604</color>
+
+    <color name="gws_chillipepperA100">#d30c23</color>
+    <color name="gws_chillipepperA200">#ba0419</color>
+    <color name="gws_chillipepperA400">#990012</color>
+    <color name="gws_chillipepperA700">#67000c</color>
+
+    <color name="gws_firebrick50">#f49e9e</color>
+    <color name="gws_firebrick100">#f47f7f</color>
+    <color name="gws_firebrick200">#eb6767</color>
+    <color name="gws_firebrick300">#da4c4c</color>
+    <color name="gws_firebrick400">#ce3939</color>
+    <color name="gws_firebrick500">#b22222</color>
+    <color name="gws_firebrick600">#a81919</color>
+    <color name="gws_firebrick700">#971414</color>
+    <color name="gws_firebrick800">#820e0e</color>
+    <color name="gws_firebrick900">#610909</color>
+
+    <color name="gws_firebrickA100">#c80202</color>
+    <color name="gws_firebrickA200">#a40101</color>
+    <color name="gws_firebrickA400">#8b0000</color>
+    <color name="gws_firebrickA700">#710000</color>
+
+    <color name="gws_maroon50">#d94f4f</color>
+    <color name="gws_maroon100">#cf3e3e</color>
+    <color name="gws_maroon200">#b82727</color>
+    <color name="gws_maroon300">#a41313</color>
+    <color name="gws_maroon400">#8d0606</color>
+    <color name="gws_maroon500">#800000</color>
+    <color name="gws_maroon600">#680000</color>
+    <color name="gws_maroon700">#410000</color>
+    <color name="gws_maroon800">#220101</color>
+    <color name="gws_maroon900">#0a0000</color>
+
+    <color name="gws_maroonA100">#c80f25</color>
+    <color name="gws_maroonA200">#ad071a</color>
+    <color name="gws_maroonA400">#990012</color>
+    <color name="gws_maroonA700">#6e020f</color>
+
+    <color name="gws_coral50">#fbccbc</color>
+    <color name="gws_coral100">#ffc8b5</color>
+    <color name="gws_coral200">#ffb69c</color>
+    <color name="gws_coral300">#f9a183</color>
+    <color name="gws_coral400">#f98a64</color>
+    <color name="gws_coral500">#ff7f50</color>
+    <color name="gws_coral600">#eb6f43</color>
+    <color name="gws_coral700">#d36037</color>
+    <color name="gws_coral800">#bd522c</color>
+    <color name="gws_coral900">#a2401d</color>
+
+    <color name="gws_coralA100">#ff9a89</color>
+    <color name="gws_coralA200">#fb816d</color>
+    <color name="gws_coralA400">#ff6347</color>
+    <color name="gws_coralA700">#d33e25</color>
+
+    <color name="gws_tomato50">#fbd0c5</color>
+    <color name="gws_tomato100">#fbc9bb</color>
+    <color name="gws_tomato200">#ffbaa8</color>
+    <color name="gws_tomato300">#ff9f85</color>
+    <color name="gws_tomato400">#ff815f</color>
+    <color name="gws_tomato500">#ff6e47</color>
+    <color name="gws_tomato600">#eb633f</color>
+    <color name="gws_tomato700">#d55735</color>
+    <color name="gws_tomato800">#bd4828</color>
+    <color name="gws_tomato900">#9f361a</color>
+
+    <color name="gws_tomatoA100">#fbae94</color>
+    <color name="gws_tomatoA200">#fb9673</color>
+    <color name="gws_tomatoA400">#ff7f50</color>
+    <color name="gws_tomatoA700">#ce562c</color>
+
+    <color name="gws_papayaorange50">#ffd1b2</color>
+    <color name="gws_papayaorange100">#fdbe94</color>
+    <color name="gws_papayaorange200">#ffad76</color>
+    <color name="gws_papayaorange300">#fd944e</color>
+    <color name="gws_papayaorange400">#f27a2b</color>
+    <color name="gws_papayaorange500">#e56717</color>
+    <color name="gws_papayaorange600">#ce5c10</color>
+    <color name="gws_papayaorange700">#a2470a</color>
+    <color name="gws_papayaorange800">#713106</color>
+    <color name="gws_papayaorange900">#512101</color>
+
+    <color name="gws_papayaorangeA100">#eead73</color>
+    <color name="gws_papayaorangeA200">#dc9658</color>
+    <color name="gws_papayaorangeA400">#c88141</color>
+    <color name="gws_papayaorangeA700">#9d5c23</color>
+
+    <color name="gws_tigerorange50">#f9d4b4</color>
+    <color name="gws_tigerorange100">#f9c597</color>
+    <color name="gws_tigerorange200">#f2b279</color>
+    <color name="gws_tigerorange300">#e39d5e</color>
+    <color name="gws_tigerorange400">#d38948</color>
+    <color name="gws_tigerorange500">#c88141</color>
+    <color name="gws_tigerorange600">#b37237</color>
+    <color name="gws_tigerorange700">#975c28</color>
+    <color name="gws_tigerorange800">#854f20</color>
+    <color name="gws_tigerorange900">#6a3c13</color>
+
+    <color name="gws_tigerorangeA100">#f78b44</color>
+    <color name="gws_tigerorangeA200">#f27928</color>
+    <color name="gws_tigerorangeA400">#e56717</color>
+    <color name="gws_tigerorangeA700">#c3540a</color>
+
+    <color name="gws_orangered50">#fba684</color>
+    <color name="gws_orangered100">#ff9f79</color>
+    <color name="gws_orangered200">#fb8658</color>
+    <color name="gws_orangered300">#fb6b32</color>
+    <color name="gws_orangered400">#fb5a1b</color>
+    <color name="gws_orangered500">#ff4500</color>
+    <color name="gws_orangered600">#e94302</color>
+    <color name="gws_orangered700">#c83a02</color>
+    <color name="gws_orangered800">#9d2d01</color>
+    <color name="gws_orangered900">#6e2102</color>
+
+    <color name="gws_orangeredA100">#fba294</color>
+    <color name="gws_orangeredA200">#ff8c79</color>
+    <color name="gws_orangeredA400">#ff6347</color>
+    <color name="gws_orangeredA700">#d3442d</color>
+
+    <color name="gws_halloween50">#f9a97d</color>
+    <color name="gws_halloween100">#f4884d</color>
+    <color name="gws_halloween200">#f08145</color>
+    <color name="gws_halloween300">#f07e3f</color>
+    <color name="gws_halloween400">#eb7635</color>
+    <color name="gws_halloween500">#e66c2c</color>
+    <color name="gws_halloween600">#cf5f22</color>
+    <color name="gws_halloween700">#b44f17</color>
+    <color name="gws_halloween800">#9d410f</color>
+    <color name="gws_halloween900">#8d390b</color>
+
+    <color name="gws_halloweenA100">#fb9958</color>
+    <color name="gws_halloweenA200">#fb883b</color>
+    <color name="gws_halloweenA400">#f87217</color>
+    <color name="gws_halloweenA700">#da5e0c</color>
+
+    <color name="gws_khaki50">#f0eed8</color>
+    <color name="gws_khaki100">#ebe8cc</color>
+    <color name="gws_khaki200">#ebe7c1</color>
+    <color name="gws_khaki300">#ebe5b0</color>
+    <color name="gws_khaki400">#eee6a1</color>
+    <color name="gws_khaki500">#f0e68c</color>
+    <color name="gws_khaki600">#ded375</color>
+    <color name="gws_khaki700">#c5ba5d</color>
+    <color name="gws_khaki800">#a89e46</color>
+    <color name="gws_khaki900">#847b2e</color>
+
+    <color name="gws_khakiA100">#d9d497</color>
+    <color name="gws_khakiA200">#cfc986</color>
+    <color name="gws_khakiA400">#bdb76b</color>
+    <color name="gws_khakiA700">#948e48</color>
+
+    <color name="gws_darkkhaki50">#eee9b5</color>
+    <color name="gws_darkkhaki100">#ebe6a9</color>
+    <color name="gws_darkkhaki200">#e0da94</color>
+    <color name="gws_darkkhaki300">#d5cf86</color>
+    <color name="gws_darkkhaki400">#c8c177</color>
+    <color name="gws_darkkhaki500">#bdb76b</color>
+    <color name="gws_darkkhaki600">#a49d54</color>
+    <color name="gws_darkkhaki700">#89833e</color>
+    <color name="gws_darkkhaki800">#77712e</color>
+    <color name="gws_darkkhaki900">#635d20</color>
+
+    <color name="gws_darkkhakiA100">#eee9bf</color>
+    <color name="gws_darkkhakiA200">#eee7a9</color>
+    <color name="gws_darkkhakiA400">#f0e68c</color>
+    <color name="gws_darkkhakiA700">#c3b85c</color>
+
+    <color name="gws_harvestgold50">#f9f8eb</color>
+    <color name="gws_harvestgold100">#f5f3d7</color>
+    <color name="gws_harvestgold200">#f0ecbb</color>
+    <color name="gws_harvestgold300">#f4eda4</color>
+    <color name="gws_harvestgold400">#f4eb88</color>
+    <color name="gws_harvestgold500">#ede275</color>
+    <color name="gws_harvestgold600">#d1c75b</color>
+    <color name="gws_harvestgold700">#afa642</color>
+    <color name="gws_harvestgold800">#8d852c</color>
+    <color name="gws_harvestgold900">#5e5818</color>
+
+    <color name="gws_harvestgoldA100">#eec042</color>
+    <color name="gws_harvestgoldA200">#e3b22e</color>
+    <color name="gws_harvestgoldA400">#d4a017</color>
+    <color name="gws_harvestgoldA700">#ad8109</color>
+
+    <color name="gws_goldenrod50">#fbf8e6</color>
+    <color name="gws_goldenrod100">#f5f1d8</color>
+    <color name="gws_goldenrod200">#f5efcf</color>
+    <color name="gws_goldenrod300">#f4eab2</color>
+    <color name="gws_goldenrod400">#f4e592</color>
+    <color name="gws_goldenrod500">#edda74</color>
+    <color name="gws_goldenrod600">#dac760</color>
+    <color name="gws_goldenrod700">#af9e41</color>
+    <color name="gws_goldenrod800">#87792a</color>
+    <color name="gws_goldenrod900">#635819</color>
+
+
+    <color name="gws_goldenrodA100">#e9b444</color>
+    <color name="gws_goldenrodA200">#daa32e</color>
+    <color name="gws_goldenrodA400">#c68e17</color>
+    <color name="gws_goldenrodA700">#a2730d</color>
+
+    <color name="gws_sunyellow50">#f5f0db</color>
+    <color name="gws_sunyellow100">#f9f3d6</color>
+    <color name="gws_sunyellow200">#f9eebc</color>
+    <color name="gws_sunyellow300">#fbedac</color>
+    <color name="gws_sunyellow400">#ffec92</color>
+    <color name="gws_sunyellow500">#ffe87c</color>
+    <color name="gws_sunyellow600">#ebd362</color>
+    <color name="gws_sunyellow700">#c8b148</color>
+    <color name="gws_sunyellow800">#af9933</color>
+    <color name="gws_sunyellow900">#978326</color>
+
+    <color name="gws_sunyellowA100">#f0b23b</color>
+    <color name="gws_sunyellowA200">#f0ac28</color>
+    <color name="gws_sunyellowA400">#e8a317</color>
+
+    <color name="gws_gold50">#f5e695</color>
+    <color name="gws_gold100">#f5e37d</color>
+    <color name="gws_gold200">#fbe35c</color>
+    <color name="gws_gold300">#ffe240</color>
+    <color name="gws_gold400">#ffdc17</color>
+    <color name="gws_gold500">#ffd700</color>
+    <color name="gws_gold600">#e0be01</color>
+    <color name="gws_gold700">#b49901</color>
+    <color name="gws_gold800">#7e6b01</color>
+    <color name="gws_gold900">#534601</color>
+
+    <color name="gws_goldA100">#f9fb32</color>
+    <color name="gws_goldA200">#fcff21</color>
+    <color name="gws_goldA400">#ffff00</color>
+    <color name="gws_goldA700">#c6c801</color>
+
+    <color name="gws_cantaloupe50">#ffe4c1</color>
+    <color name="gws_cantaloupe100">#fbd7a9</color>
+    <color name="gws_cantaloupe200">#fbcb8c</color>
+    <color name="gws_cantaloupe300">#fbbb68</color>
+    <color name="gws_cantaloupe400">#ffb24f</color>
+    <color name="gws_cantaloupe500">#ffa62f</color>
+    <color name="gws_cantaloupe600">#e08c1f</color>
+    <color name="gws_cantaloupe700">#c37816</color>
+    <color name="gws_cantaloupe800">#975909</color>
+    <color name="gws_cantaloupe900">#734304</color>
+
+    <color name="gws_cantaloupeA100">#f9d3ae</color>
+    <color name="gws_cantaloupeA200">#ebbb8d</color>
+    <color name="gws_cantaloupeA400">#e2a76f</color>
+    <color name="gws_cantaloupeA700">#b37e4a</color>
+
+    <color name="gws_beeyellow50">#f9dd98</color>
+    <color name="gws_beeyellow100">#f4d079</color>
+    <color name="gws_beeyellow200">#f4c659</color>
+    <color name="gws_beeyellow300">#eeb838</color>
+    <color name="gws_beeyellow400">#eeb326</color>
+    <color name="gws_beeyellow500">#e9ab17</color>
+    <color name="gws_beeyellow600">#daa014</color>
+    <color name="gws_beeyellow700">#c38e0f</color>
+    <color name="gws_beeyellow800">#9f730a</color>
+    <color name="gws_beeyellow900">#795808</color>
+
+    <color name="gws_beeyellowA100">#f9c750</color>
+    <color name="gws_beeyellowA200">#f9c036</color>
+    <color name="gws_beeyellowA400">#fbb917</color>
+    <color name="gws_beeyellowA700">#de9f09</color>
+
+    <color name="gws_yellowgreen50">#d6f494</color>
+    <color name="gws_yellowgreen100">#cff089</color>
+    <color name="gws_yellowgreen200">#c8ee76</color>
+    <color name="gws_yellowgreen300">#b8e559</color>
+    <color name="gws_yellowgreen400">#a9d941</color>
+    <color name="gws_yellowgreen500">#9acd32</color>
+    <color name="gws_yellowgreen600">#89b823</color>
+    <color name="gws_yellowgreen700">#6e9715</color>
+    <color name="gws_yellowgreen800">#5f8212</color>
+    <color name="gws_yellwogreen900">#425e07</color>
+
+    <color name="gws_yellowgreenA100">#15a415</color>
+    <color name="gws_yellowgreenA200">#088908</color>
+    <color name="gws_yellowgreenA400">#006400</color>
+    <color name="gws_yellowgreenA700">#003800</color>
+
+    <color name="gws_olivedrab50">#bfde7c</color>
+    <color name="gws_olivedrab100">#b5d570</color>
+    <color name="gws_olivedrab200">#a3c55a</color>
+    <color name="gws_olivedrab300">#93b845</color>
+    <color name="gws_olivedrab400">#7fa431</color>
+    <color name="gws_olivedrab500">#6b8e23</color>
+    <color name="gws_olivedrab600">#57731a</color>
+    <color name="gws_olivedrab700">#3e5311</color>
+    <color name="gws_olivedrab800">#28360a</color>
+    <color name="gws_olivedrab900">#1b2506</color>
+
+    <color name="gws_olivedrabA100">#b4e34f</color>
+    <color name="gws_olivedrabA200">#a6d540</color>
+    <color name="gws_olivedrabA400">#9acd32</color>
+    <color name="gws_olivedrabA700">#78a21d</color>
+
+    <color name="gws_olive50">#d1d314</color>
+    <color name="gws_olive100">#cdcf08</color>
+    <color name="gws_olive200">#c1c302</color>
+    <color name="gws_olive300">#adaf01</color>
+    <color name="gws_olive400">#979901</color>
+    <color name="gws_olive500">#808000</color>
+    <color name="gws_olive600">#676801</color>
+    <color name="gws_olive700">#454601</color>
+    <color name="gws_olive800">#222200</color>
+    <color name="gws_olive900">#101000</color>
+
+    <color name="gws_oliveA100">#9ec350</color>
+    <color name="gws_oliveA200">#85a83b</color>
+    <color name="gws_oliveA400">#6b8e23</color>
+    <color name="gws_oliveA700">#4b670d</color>
+
+    <color name="gws_darkolivegreen50">#cbdab2</color>
+    <color name="gws_darkolivegreen100">#b7c898</color>
+    <color name="gws_darkolivegreen200">#a0b47e</color>
+    <color name="gws_darkolivegreen300">#889f5f</color>
+    <color name="gws_darkolivegreen400">#6b8244</color>
+    <color name="gws_darkolivegreen500">#556b2f</color>
+    <color name="gws_darkolivegreen600">#475c24</color>
+    <color name="gws_darkolivegreen700">#314116</color>
+    <color name="gws_darkolivegreen800">#1f2b0b</color>
+    <color name="gws_darkolivegreen900">#182207</color>
+
+    <color name="gws_darkolivegreenA100">#b6b815</color>
+    <color name="gws_darkolivegreenA200">#a0a209</color>
+    <color name="gws_darkolivegreenA400">#808000</color>
+    <color name="gws_darkolivegreenA700">#4a4b01</color>
+
+    <color name="gws_chartreuse50">#b9f480</color>
+    <color name="gws_chartreuse100">#b2f570</color>
+    <color name="gws_chartreuse200">#a7f957</color>
+    <color name="gws_chartreuse300">#96f935</color>
+    <color name="gws_chartreuse400">#88f91a</color>
+    <color name="gws_chartreuse500">#7fff00</color>
+    <color name="gws_chartreuse600">#76ee01</color>
+    <color name="gws_chartreuse700">#69d301</color>
+    <color name="gws_chartreuse800">#56ad01</color>
+    <color name="gws_chartreuse900">#3f7e00</color>
+
+    <color name="gws_chartreuseA100">#30fb30</color>
+    <color name="gws_chartreuseA200">#1bff1b</color>
+    <color name="gws_chartreuseA400">#00ff00</color>
+    <color name="gws_chartreuseA700">#02ca02</color>
+
+    <color name="gws_lime50">#7af47a</color>
+    <color name="gws_lime100">#6df96d</color>
+    <color name="gws_lime200">#53f953</color>
+    <color name="gws_lime300">#35fb35</color>
+    <color name="gws_lime400">#1bff1b</color>
+    <color name="gws_lime500">#00ff00</color>
+    <color name="gws_lime600">#01e501</color>
+    <color name="gws_lime700">#04c804</color>
+    <color name="gws_lime800">#039f03</color>
+    <color name="gws_lime900">#026802</color>
+
+    <color name="gws_limeA100">#93ff29</color>
+    <color name="gws_limeA200">#8aff18</color>
+    <color name="gws_limeA400">#7cfc00</color>
+    <color name="gws_limeA700">#62c501</color>
+
+    <color name="gws_limegreen50">#94f494</color>
+    <color name="gws_limegreen100">#88f588</color>
+    <color name="gws_limegreen200">#6dee6d</color>
+    <color name="gws_limegreen300">#58e358</color>
+    <color name="gws_limegreen400">#41d941</color>
+    <color name="gws_limegreen500">#32cd32</color>
+    <color name="gws_limegreen600">#27ba27</color>
+    <color name="gws_limegreen700">#1c9d1c</color>
+    <color name="gws_limegreen800">#117711</color>
+    <color name="gws_limegreen900">#085608</color>
+
+    <color name="gws_limegreenA100">#1ff91f</color>
+    <color name="gws_limegreenA200">#10fb10</color>
+    <color name="gws_limegreenA400">#00ff00</color>
+    <color name="gws_limegreenA700">#01c501</color>
+
+    <color name="gws_palegreen50">#dcf9dc</color>
+    <color name="gws_palegreen100">#d1f4d1</color>
+    <color name="gws_palegreen200">#c4f4c4</color>
+    <color name="gws_palegreen300">#b3f5b3</color>
+    <color name="gws_palegreen400">#a8f9a8</color>
+    <color name="gws_palegreen500">#98fb98</color>
+    <color name="gws_palegreen600">#84eb84</color>
+    <color name="gws_palegreen700">#6fd96f</color>
+    <color name="gws_palegreen800">#52ba52</color>
+    <color name="gws_palegreen900">#3ca43c</color>
+
+
+    <color name="gws_palegreenA100">#50e550</color>
+    <color name="gws_palegreenA200">#44e044</color>
+    <color name="gws_palegreenA400">#32cd32</color>
+    <color name="gws_palegreenA700">#1faa1f</color>
+
+    <color name="gws_forestgreen50">#8cd98c</color>
+    <color name="gws_forestgreen100">#7bcf7b</color>
+    <color name="gws_forestgreen200">#64c864</color>
+    <color name="gws_forestgreen300">#49b449</color>
+    <color name="gws_forestgreen400">#329f32</color>
+    <color name="gws_forestgreen500">#228b22</color>
+    <color name="gws_forestgreen600">#1b7c1b</color>
+    <color name="gws_forestgreen700">#125c12</color>
+    <color name="gws_forestgreen800">#0c460c</color>
+    <color name="gws_forestgreen900">#062706</color>
+
+    <color name="gws_forestgreenA100">#5eb384</color>
+    <color name="gws_A200">#48a471</color>
+    <color name="gws_forestgreenA400">#2e8b57</color>
+    <color name="gws_forestgreenA700">#156338</color>
+
+    <color name="gws_lightseagreen50">#79eee7</color>
+    <color name="gws_lightseagreen100">#6be9e2</color>
+    <color name="gws_lightseagreen200">#59ded6</color>
+    <color name="gws_lightseagreen300">#44d5cc</color>
+    <color name="gws_lightseagreen400">#2ec5bc</color>
+    <color name="gws_lightseagreen500">#20b2aa</color>
+    <color name="gws_lightseagreen600">#169f97</color>
+    <color name="gws_ligthseagreen700">#0e827b</color>
+    <color name="gws_lightseagreen800">#0a6762</color>
+    <color name="gws_lightseagreen900">#044642</color>
+
+    <color name="gws_lightseagreenA100">#bad9ba</color>
+    <color name="gws_lightseagreenA200">#a2caa2</color>
+    <color name="gws_lightseagreenA400">#8fbc8f</color>
+    <color name="gws_lightseagreenA700">#619961</color>
+
+    <color name="gws_mediumaquamarine50">#c8f4e5</color>
+    <color name="gws_mediumaquamarine100">#b5ebd8</color>
+    <color name="gws_mediumaquamarine200">#a6eed5</color>
+    <color name="gws_mediumaquamarine300">#89e0c2</color>
+    <color name="gws_mediumaquamarine400">#73d3b2</color>
+    <color name="gws_mediumaquamarine500">#66cdaa</color>
+    <color name="gws_mediumaquamarine600">#4cb390</color>
+    <color name="gws_mediumaquamarine700">#3d9f7e</color>
+    <color name="gws_mediumaquamarine800">#297e61</color>
+    <color name="gws_mediumaquamarine900">#1c634b</color>
+
+    <color name="gws_mediumaquamarineA100">#798e54</color>
+    <color name="gws_mediumaquamarineA200">#677c41</color>
+    <color name="gws_mediumaquamarineA400">#556b2f</color>
+    <color name="gws_mediumaquamarineA700">#3b4d1b</color>
+
+    <color name="gws_springgreen50">#9bf9ca</color>
+    <color name="gws_springgreen100">#88f5be</color>
+    <color name="gws_springgreen200">#66f5ad</color>
+    <color name="gws_springgreen300">#3ffb9c</color>
+    <color name="gws_springgreen400">#1dff8d</color>
+    <color name="gws_springgreen500">#00ff7f</color>
+    <color name="gws_springgreen600">#01e371</color>
+    <color name="gws_springgreen700">#01ba5c</color>
+    <color name="gws_springgreen800">#038d47</color>
+    <color name="gws_springgreen900">#025e2f</color>
+
+    <color name="gws_springgreenA100">#39fbb0</color>
+    <color name="gws_springgreenA200">#20ffa8</color>
+    <color name="gws_springgreenA400">#00fa9a</color>
+    <color name="gws_springgreenA700">#01cf7f</color>
+
+    <color name="gws_mediumseagreen50">#a2f0c5</color>
+    <color name="gws_mediumseagreen100">#98ebbd</color>
+    <color name="gws_mediumseagreen200">#7de0a9</color>
+    <color name="gws_mediumseagreen300">#67d397</color>
+    <color name="gws_mediumseagreen400">#4ec382</color>
+    <color name="gws_mediumseagreen500">#3cb371</color>
+    <color name="gws_mediumseagreen600">#329f63</color>
+    <color name="gws_mediumseagreen700">#21844d</color>
+    <color name="gws_mediumseagreen800">#136337</color>
+    <color name="gws_mediumseagreen900">#0c4827</color>
+
+    <color name="gws_mediumseagreenA100">#31f491</color>
+    <color name="gws_mediumseagreenA200">#1dfb8a</color>
+    <color name="gws_mediumseagreenA400">#00ff7f</color>
+    <color name="gws_mediumseagreenA700">#02d56a</color>
+
+    <color name="gws_seagreen50">#a0e5bf</color>
+    <color name="gws_seagreen100">#8cdaaf</color>
+    <color name="gws_seagreen200">#6ec595</color>
+    <color name="gws_seagreen300">#55b37f</color>
+    <color name="gws_seagreen400">#3e9f69</color>
+    <color name="gws_seagreen500">#2e8b57</color>
+    <color name="gws_seagreen600">#267e4d</color>
+    <color name="gws_seagreen700">#1a673c</color>
+    <color name="gws_seagreen800">#125831</color>
+    <color name="gws_seagreen900">#0a3b20</color>
+
+
+    <color name="gws_seagreenA100">#70d59d</color>
+    <color name="gws_seagreenA200">#56c587</color>
+    <color name="gws_seagreenA400">#3cb371</color>
+    <color name="gws_seagreenA700">#238750</color>
+
+    <color name="gws_darkseagreen50">#d8eed8</color>
+    <color name="gws_darkseagreen100">#d2e9d2</color>
+    <color name="gws_darkseagreen200">#bddabd</color>
+    <color name="gws_darkseagreen300">#adcfad</color>
+    <color name="gws_darkseagreen400">#9dc59d</color>
+    <color name="gws_darkseagreen500">#8fbc8f</color>
+    <color name="gws_darkseagreen600">#7ba87b</color>
+    <color name="gws_darkseagreen700">#75af75</color>
+    <color name="gws_darkseagreen800">#569256</color>
+    <color name="gws_darkseagreen900">#437c43</color>
+
+    <color name="gws_darkseagreenA100">#93e5c9</color>
+    <color name="gws_darkseagreenA200">#86e0c1</color>
+    <color name="gws_darkseagreenA400">#66cdaa</color>
+    <color name="gws_darkseagreenA700">#43ad89</color>
+
+    <color name="gws_darkcyan50">#32dcde</color>
+    <color name="gws_darkcyan100">#2bd3d5</color>
+    <color name="gws_darkcyan200">#1fc8ca</color>
+    <color name="gws_darkcyan300">#13b8ba</color>
+    <color name="gws_darkcyan400">#0ba2a4</color>
+    <color name="gws_darkcyan500">#008b8b</color>
+    <color name="gws_darkcyan600">#007677</color>
+    <color name="gws_darkcyan700">#005758</color>
+    <color name="gws_darkcyan800">#003a3b</color>
+    <color name="gws_darkcyan900">#001c1c</color>
+
+    <color name="gws_darkcyanA100">#40d3ca</color>
+    <color name="gws_darkcyanA200">#33c3bb</color>
+    <color name="gws_darkcyanA400">#20b2aa</color>
+    <color name="gws_darkcyanA700">#149991</color>
+
+    <color name="gws_teal50">#33dee0</color>
+    <color name="gws_teal100">#29d1d3</color>
+    <color name="gws_teal200">#19c1c3</color>
+    <color name="gws_teal300">#0da8aa</color>
+    <color name="gws_teal400">#049799</color>
+    <color name="gws_teal500">#008080</color>
+    <color name="gws_teal600">#005d5e</color>
+    <color name="gws_teal700">#004142</color>
+    <color name="gws_teal800">#012727</color>
+    <color name="gws_teal900">#001717</color>
+
+    <color name="gws_tealA100">#1cbbbd</color>
+    <color name="gws_tealA200">#0fa6a8</color>
+    <color name="gws_tealA400">#008b8b</color>
+    <color name="gws_tealA700">#006061</color>
+
+
+    <color name="gws_wheat50">#fbf7ef</color>
+    <color name="gws_wheat100">#fbf6ec</color>
+    <color name="gws_wheat200">#fbf3e3</color>
+    <color name="gws_wheat300">#f9eed8</color>
+    <color name="gws_wheat400">#f9e8c6</color>
+    <color name="gws_wheat500">#f5deb3</color>
+    <color name="gws_wheat600">#dec596</color>
+    <color name="gws_wheat700">#baa171</color>
+    <color name="gws_wheat800">#a28b5e</color>
+    <color name="gws_wheat900">#877146</color>
+
+    <color name="gws_burlywood50">#f4e8d9</color>
+    <color name="gws_burlywood100">#f5e3cc</color>
+    <color name="gws_burlywood200">#f0d7b7</color>
+    <color name="gws_burlywood300">#eed1ab</color>
+    <color name="gws_burlywood400">#e9c69a</color>
+    <color name="gws_burlywood500">#deb887</color>
+    <color name="gws_burlywood600">#caa370</color>
+    <color name="gws_burlywood700">#b38e5e</color>
+    <color name="gws_burlywood800">#947349</color>
+    <color name="gws_burlywood900">#7e5f37</color>
+
+
+    <color name="gws_tan50">#f9efe2</color>
+    <color name="gws_tan100">#f4e6d3</color>
+    <color name="gws_tan200">#ebd8c0</color>
+    <color name="gws_tan300">#e5ceb0</color>
+    <color name="gws_tan400">#dabd98</color>
+    <color name="gws_tan500">#d2b48c</color>
+    <color name="gws_tan600">#bf9f75</color>
+    <color name="gws_tan700">#aa8c64</color>
+    <color name="gws_tan800">#94744b</color>
+    <color name="gws_tan900">#7c613d</color>
+
+    <color name="gws_rosybrown50">#f4e0e0</color>
+    <color name="gws_rosybrown100">#ebd4d4</color>
+    <color name="gws_rosybrown200">#e3c2c2</color>
+    <color name="gws_rosybrown300">#dab6b6</color>
+    <color name="gws_rosybrown400">#caa2a2</color>
+    <color name="gws_rosybrown500">#bc8f8f</color>
+    <color name="gws_rosybrown600">#a47676</color>
+    <color name="gws_rosybrown700">#895b5b</color>
+    <color name="gws_rosybrown800">#734949</color>
+    <color name="gws_rosybrown900">#5c3737</color>
+
+    <color name="gws_sand50">#f4eacc</color>
+    <color name="gws_sand100">#eee3c3</color>
+    <color name="gws_sand200">#e9dcb3</color>
+    <color name="gws_sand300">#d9cb9f</color>
+    <color name="gws_sand400">#cebe8f</color>
+    <color name="gws_sand500">#c2b280</color>
+    <color name="gws_sand600">#b4a36e</color>
+    <color name="gws_sand700">#a89660</color>
+    <color name="gws_sand800">#97854f</color>
+    <color name="gws_sand900">#7c6c3b</color>
+
+    <color name="gws_desertsand50">#edc9af</color>
+    <color name="gws_desertsand100">#dab193</color>
+    <color name="gws_desertsand200">#bf9576</color>
+    <color name="gws_desertsand300">#9f7659</color>
+    <color name="gws_desertsand400">#845b3d</color>
+    <color name="gws_desertsand500">#734a2b</color>
+    <color name="gws_desertsand600">#61391c</color>
+    <color name="gws_desertsand700">#532e13</color>
+    <color name="gws_desertsand800">#48250b</color>
+    <color name="gws_desertsand900">#361a06</color>
+
+    <color name="gws_fallleafbrown50">#f0e5b3</color>
+    <color name="gws_fallleafbrown100">#ebdea0</color>
+    <color name="gws_fallleafbrown200">#e3d48f</color>
+    <color name="gws_fallleafbrown300">#d9c97e</color>
+    <color name="gws_fallleafbrown400">#cfbe6d</color>
+    <color name="gws_fallleafbrown500">#c8b560</color>
+    <color name="gws_fallleafbrown600">#b4a14b</color>
+    <color name="gws_fallleafbrown700">#9d8b39</color>
+    <color name="gws_fallleafbrown800">#877629</color>
+    <color name="gws_fallleafbrown900">#6e601d</color>
+
+    <color name="gws_sandybrown50">#f9dabf</color>
+    <color name="gws_sandybrown100">#f9d4b3</color>
+    <color name="gws_sandybrown200">#f5c9a1</color>
+    <color name="gws_sandybrown300">#f9c291</color>
+    <color name="gws_sandybrown400">#f4b277</color>
+    <color name="gws_sandybrown500">#f4a460</color>
+    <color name="gws_sandybrown600">#e5954d</color>
+    <color name="gws_sandybrown700">#d58640</color>
+    <color name="gws_sandybrown800">#bd7432</color>
+    <color name="gws_sandybrown900">#a25d20</color>
+
+    <color name="gws_peru50">#f4d9be</color>
+    <color name="gws_peru100">#f4cda6</color>
+    <color name="gws_peru200">#eebd8e</color>
+    <color name="gws_peru300">#e3a66b</color>
+    <color name="gws_peru400">#d99451</color>
+    <color name="gws_peru500">#cd853f</color>
+    <color name="gws_peru600">#b8722e</color>
+    <color name="gws_peru700">#975b21</color>
+    <color name="gws_peru800">#87511d</color>
+    <color name="gws_peru900">#613810</color>
+
+    <color name="gws_chocolate50">#f5be95</color>
+    <color name="gws_chocolate100">#f5b281</color>
+    <color name="gws_chocolate200">#f5a062</color>
+    <color name="gws_chocolate300">#ee904b</color>
+    <color name="gws_chocolate400">#e37c31</color>
+    <color name="gws_chocolate500">#d2691e</color>
+    <color name="gws_chocolate600">#bf5d14</color>
+    <color name="gws_chocolate700">#a8500f</color>
+    <color name="gws_chocolate800">#843e0a</color>
+    <color name="gws_chocolate900">#612b04</color>
+
+    <color name="gws_mahogany50">#fb8b55</color>
+    <color name="gws_mahogany100">#f47e44</color>
+    <color name="gws_mahogany200">#f06927</color>
+    <color name="gws_mahogany300">#e05815</color>
+    <color name="gws_mahogany400">#d54e0c</color>
+    <color name="gws_mahogany500">#c04000</color>
+    <color name="gws_mahogany600">#a43601</color>
+    <color name="gws_mahogany700">#7e2a01</color>
+    <color name="gws_mahogany800">#531c01</color>
+    <color name="gws_mahogany900">#3b1401</color>
+
+    <color name="gws_chestnut50">#f4c1b7</color>
+    <color name="gws_chestnut100">#ebb2a7</color>
+    <color name="gws_chestnut200">#d99689</color>
+    <color name="gws_chestnut300">#c5796a</color>
+    <color name="gws_chestnut400">#aa5a4b</color>
+    <color name="gws_chestnut500">#954535</color>
+    <color name="gws_chestnut600">#873a2a</color>
+    <color name="gws_chestnut700">#732c1e</color>
+    <color name="gws_chestnut800">#511b10</color>
+    <color name="gws_chestnut900">#381008</color>
+
+    <color name="gws_sienna50">#f5c3aa</color>
+    <color name="gws_sienna100">#f4b291</color>
+    <color name="gws_sienna200">#e39874</color>
+    <color name="gws_sienna300">#d3845d</color>
+    <color name="gws_sienna400">#bd6d46</color>
+    <color name="gws_sienna500">#a0522d</color>
+    <color name="gws_sienna600">#944a25</color>
+    <color name="gws_sienna700">#733516</color>
+    <color name="gws_sienna800">#5e290f</color>
+    <color name="gws_sienna900">#421c09</color>
+
+    <color name="gws_bloodred50">#e9a083</color>
+    <color name="gws_bloodred100">#da8b6c</color>
+    <color name="gws_bloodred200">#c87352</color>
+    <color name="gws_bloodred300">#af5b3a</color>
+    <color name="gws_bloodred400">#974728</color>
+    <color name="gws_bloodred500">#7e3517</color>
+    <color name="gws_bloodred600">#6c280e</color>
+    <color name="gws_bloodred700">#511c07</color>
+    <color name="gws_bloodred800">#3b1404</color>
+    <color name="gws_bloodred900">#2b0e03</color>
+
+    <color name="gws_wood50">#f4d6a6</color>
+    <color name="gws_wood100">#e9c791</color>
+    <color name="gws_wood200">#dab57a</color>
+    <color name="gws_wood300">#c8a061</color>
+    <color name="gws_wood400">#af8749</color>
+    <color name="gws_wood500">#966f33</color>
+    <color name="gws_wood600">#876126</color>
+    <color name="gws_wood700">#684918</color>
+    <color name="gws_wood800">#4b330e</color>
+    <color name="gws_wood900">#362408</color>
+
+    <color name="gws_moccasin50">#e3dcad</color>
+    <color name="gws_moccasin100">#d3cb93</color>
+    <color name="gws_moccasin200">#bfb679</color>
+    <color name="gws_moccasin300">#aaa05f</color>
+    <color name="gws_moccasin400">#928949</color>
+    <color name="gws_moccasin500">#827839</color>
+    <color name="gws_moccasin600">#686027</color>
+    <color name="gws_moccasin700">#4d461a</color>
+    <color name="gws_moccasin800">#3b3611</color>
+    <color name="gws_moccasin900">#2d280a</color>
+
+    <color name="gws_armybrown50">#d5d1c3</color>
+    <color name="gws_armybrown100">#c5c0ad</color>
+    <color name="gws_armybrown200">#b3ae9b</color>
+    <color name="gws_armybrown300">#a29d87</color>
+    <color name="gws_armybrown400">#8e886f</color>
+    <color name="gws_armybrown500">#827b60</color>
+    <color name="gws_armybrown600">#5e583f</color>
+    <color name="gws_armybrown700">#48422b</color>
+    <color name="gws_armybrown800">#2d2917</color>
+    <color name="gws_armybrown900">#1b180b</color>
+
+    <color name="gws_mocha50">#cabea8</color>
+    <color name="gws_mocha100">#b3a488</color>
+    <color name="gws_mocha200">#9d8d6f</color>
+    <color name="gws_mocha300">#7e6f53</color>
+    <color name="gws_mocha400">#615338</color>
+    <color name="gws_mocha500">#493d26</color>
+    <color name="gws_mocha600">#382e1b</color>
+    <color name="gws_mocha700">#221b0e</color>
+    <color name="gws_mocha800">#171207</color>
+    <color name="gws_mocha900">#0a0703</color>
+
+    <color name="gws_coffee50">#d3beaf</color>
+    <color name="gws_coffee100">#caaf9e</color>
+    <color name="gws_coffee200">#b89883</color>
+    <color name="gws_coffee300">#a27d64</color>
+    <color name="gws_coffee400">#89664e</color>
+    <color name="gws_coffee500">#6f4e37</color>
+    <color name="gws_coffee600">#5e3d27</color>
+    <color name="gws_coffee700">#422817</color>
+    <color name="gws_coffee800">#2b180c</color>
+    <color name="gws_coffee900">#1c0f06</color>
+
+    <color name="gws_sepia50">#e3b29c</color>
+    <color name="gws_sepia100">#dea68d</color>
+    <color name="gws_sepia200">#ca9076</color>
+    <color name="gws_sepia300">#b4755a</color>
+    <color name="gws_sepia400">#975b40</color>
+    <color name="gws_sepia500">#7f462c</color>
+    <color name="gws_sepia600">#6c361e</color>
+    <color name="gws_sepia700">#562915</color>
+    <color name="gws_sepia800">#421c0c</color>
+    <color name="gws_sepia900">#2b1106</color>
+
+    <color name="gws_lightgrey50">#f7f4f4</color>
+    <color name="gws_lightgrey100">#f2f0f0</color>
+    <color name="gws_lightgrey200">#eceaea</color>
+    <color name="gws_lightgrey300">#e0dddd</color>
+    <color name="gws_lightgrey400">#d9d7d7</color>
+    <color name="gws_lightgrey500">#d3d3d3</color>
+    <color name="gws_lightgrey600">#c3c3c3</color>
+    <color name="gws_lightgrey700">#a6a5a5</color>
+    <color name="gws_lightgrey800">#848282</color>
+    <color name="gws_lightgrey900">#706f6f</color>
+
+    <color name="gws_silver50">#f9f4f4</color>
+    <color name="gws_silver100">#f4efef</color>
+    <color name="gws_silver200">#e3e0e0</color>
+    <color name="gws_silver300">#dad7d7</color>
+    <color name="gws_silver400">#cfcdcd</color>
+    <color name="gws_silver500">#c0c0c0</color>
+    <color name="gws_silver600">#b4b2b2</color>
+    <color name="gws_silver700">#a2a2a2</color>
+    <color name="gws_silver800">#929090</color>
+    <color name="gws_silver900">#7c7a7a</color>
+
+    <color name="gws_darkgray50">#e5e5e5</color>
+    <color name="gws_darkgray100">#dedede</color>
+    <color name="gws_darkgray200">#d5d5d5</color>
+    <color name="gws_darkgray300">#c3c1c1</color>
+    <color name="gws_darkgray400">#b4b2b2</color>
+    <color name="gws_darkgray500">#a9a9a9</color>
+    <color name="gws_darkgray600">#979292</color>
+    <color name="gws_darkgray700">#7e7d7d</color>
+    <color name="gws_darkgray800">#636060</color>
+    <color name="gws_darkgray900">#424040</color>
+
+    <color name="gws_gray50">#d5d1d1</color>
+    <color name="gws_gray100">#cfcbcb</color>
+    <color name="gws_gray200">#bdb7b7</color>
+    <color name="gws_gray300">#aaa7a7</color>
+    <color name="gws_gray400">#949191</color>
+    <color name="gws_gray500">#808080</color>
+    <color name="gws_gray600">#777373</color>
+    <color name="gws_gray700">#636060</color>
+    <color name="gws_gray800">#4d4b4b</color>
+    <color name="gws_gray900">#3b3939</color>
+
+    <color name="gws_dimgray50">#cfc9c9</color>
+    <color name="gws_dimgray100">#bfbbbb</color>
+    <color name="gws_dimgray200">#aaa7a7</color>
+    <color name="gws_dimgray300">#979292</color>
+    <color name="gws_dimgray400">#7e7d7d</color>
+    <color name="gws_dimgray500">#696969</color>
+    <color name="gws_dimgray600">#5c5b5b</color>
+    <color name="gws_dimgray700">#4b4949</color>
+    <color name="gws_dimgray800">#3b3939</color>
+    <color name="gws_dimgray900">#302d2d</color>
+
+    <color name="gws_lightslategrey50">#c7d0d9</color>
+    <color name="gws_lightslategrey100">#bcc5ce</color>
+    <color name="gws_lightslategrey200">#a9b4bf</color>
+    <color name="gws_lightslategrey300">#98a6b4</color>
+    <color name="gws_lightslategrey400">#8493a2</color>
+    <color name="gws_lightslategrey500">#778899</color>
+    <color name="gws_lightslategrey600">#66798d</color>
+    <color name="gws_lightslategrey700">#47596c</color>
+    <color name="gws_lightslategrey800">#344556</color>
+    <color name="gws_lightslategrey900">#293746</color>
+
+    <color name="gws_slategrey50">#c2cad3</color>
+    <color name="gws_slategrey100">#bcc5ce</color>
+    <color name="gws_slategrey200">#a9b4bf</color>
+    <color name="gws_slategrey300">#94a1af</color>
+    <color name="gws_slategrey400">#828f9d</color>
+    <color name="gws_slategrey500">#708090</color>
+    <color name="gws_slategrey600">#5f7184</color>
+    <color name="gws_slategrey700">#47596c</color>
+    <color name="gws_slategrey800">#36495c</color>
+    <color name="gws_slategrey900">#213142</color>
+
+
+    <color name="gws_darkslategray50">#81a2a2</color>
+    <color name="gws_darkslategray100">#6d9292</color>
+    <color name="gws_darkslategray200">#5d8484</color>
+    <color name="gws_darkslategray300">#4a6e6e</color>
+    <color name="gws_darkslategray400">#3e6363</color>
+    <color name="gws_darkslategray500">#2f4f4f</color>
+    <color name="gws_darkslategray600">#274848</color>
+    <color name="gws_darkslategray700">#1c3b3b</color>
+    <color name="gws_darkslategray800">#112b2b</color>
+    <color name="gws_darkslategray900">#0a2020</color>
+
+
+    <color name="gws_cloudygray50">#b4b1b0</color>
+    <color name="gws_cloudygray100">#afa8a7</color>
+    <color name="gws_cloudygray200">#9f9a99</color>
+    <color name="gws_cloudygray300">#8e8a89</color>
+    <color name="gws_cloudygray400">#7c7776</color>
+    <color name="gws_cloudygray500">#6d6968</color>
+    <color name="gws_cloudygray600">#585352</color>
+    <color name="gws_cloudygray700">#46403f</color>
+    <color name="gws_cloudygray800">#383230</color>
+    <color name="gws_cloudygray900">#2d2725</color>
+
+
+    <color name="gws_sandstone50">#bab5ae</color>
+    <color name="gws_sandstone100">#b4ada4</color>
+    <color name="gws_sandstone200">#a49d95</color>
+    <color name="gws_sandstone300">#948b80</color>
+    <color name="gws_sandstone400">#897f71</color>
+    <color name="gws_sandstone500">#786d5f</color>
+    <color name="gws_sandstone600">#6c6152</color>
+    <color name="gws_sandstone700">#5c5142</color>
+    <color name="gws_sandstone800">#4b4134</color>
+    <color name="gws_sandstone900">#362f25</color>
+
+
+    <color name="gws_jetgray50">#b6bcc3</color>
+    <color name="gws_jetgray100">#a6afba</color>
+    <color name="gws_jetgray200">#969eaa</color>
+    <color name="gws_jetgray300">#838d99</color>
+    <color name="gws_jetgray400">#737e8e</color>
+    <color name="gws_jetgray500">#616d7e</color>
+    <color name="gws_jetgray600">#505d6e</color>
+    <color name="gws_jetgray700">#3e4958</color>
+    <color name="gws_jetgray800">#2b3542</color>
+    <color name="gws_jetgray900">#202732</color>
+
+    <color name="gws_bluegray50">#e1e7ee</color>
+    <color name="gws_bluegray100">#d8e3ee</color>
+    <color name="gws_bluegray200">#c9d7e5</color>
+    <color name="gws_bluegray300">#becede</color>
+    <color name="gws_bluegray400">#a7bdd3</color>
+    <color name="gws_bluegray500">#98afc7</color>
+    <color name="gws_bluegray600">#8aa2ba</color>
+    <color name="gws_bluegray700">#728ba4</color>
+    <color name="gws_bluegray800">#597189</color>
+    <color name="gws_bluegray900">#475d73</color>
+
+
+    <color name="gws_gunmetal50">#7e8589</color>
+    <color name="gws_gunmetal100">#717c82</color>
+    <color name="gws_gunmetal200">#5d696e</color>
+    <color name="gws_gunmetal300">#485358</color>
+    <color name="gws_gunmetal400">#394348</color>
+    <color name="gws_gunmetal500">#2c3539</color>
+    <color name="gws_gunmetal600">#1e272b</color>
+    <color name="gws_gunmetal700">#12191c</color>
+    <color name="gws_gunmetal800">#0c1215</color>
+    <color name="gws_gunmetal900">#0a1215</color>
+
+
+    <color name="gws_turquoisegray50">#cddedc</color>
+    <color name="gws_turquoisegray100">#c6d7d5</color>
+    <color name="gws_turquoisegray200">#bccecc</color>
+    <color name="gws_turquoisegray300">#a6bdbb</color>
+    <color name="gws_turquoisegray400">#8ca6a3</color>
+    <color name="gws_turquoisegray500">#73928f</color>
+    <color name="gws_turquoisegray600">#62807d</color>
+    <color name="gws_turquoisegray700">#4e6a67</color>
+    <color name="gws_turquoisegray800">#3e5653</color>
+    <color name="gws_turquoisegray900">#2f4644</color>
+
+
+    <color name="gws_cadetbluegray50">#c2d7d9</color>
+    <color name="gws_cadetbluegray100">#bdcfd1</color>
+    <color name="gws_cadetbluegray200">#aebfc1</color>
+    <color name="gws_cadetbluegray300">#9eaeaf</color>
+    <color name="gws_cadetbluegray400">#8e9c9d</color>
+    <color name="gws_cadetbluegray500">#798586</color>
+    <color name="gws_cadetbluegray700">#697677</color>
+    <color name="gws_cadetbluegray800">#5a6667</color>
+    <color name="gws_cadetbluegray900">#455051</color>
+
+
+    <color name="gws_steelbluegray50">#cbd8e3</color>
+    <color name="gws_steelbluegray100">#c8d5e0</color>
+    <color name="gws_steelbluegray200">#bac5ce</color>
+    <color name="gws_steelbluegray300">#aab4bd</color>
+    <color name="gws_steelbluegray400">#8d97a0</color>
+    <color name="gws_steelbluegray500">#758089</color>
+    <color name="gws_steelbluegray600">#606d77</color>
+    <color name="gws_steelbluegray700">#47525c</color>
+    <color name="gws_steelbluegray800">#34404a</color>
+    <color name="gws_steelbluegray900">#232d36</color>
+
+
+    <color name="gws_lightsteelbluegray50">#d6dbe3</color>
+    <color name="gws_lightsteelbluegray100">#d1d6de</color>
+    <color name="gws_lightsteelbluegray200">#c0c5cc</color>
+    <color name="gws_lightsteelbluegray300">#aeb2b8</color>
+    <color name="gws_lightsteelbluegray400">#989ca2</color>
+    <color name="gws_lightsteelbluegray500">#898c91</color>
+    <color name="gws_lightsteelbluegray600">#7a7e84</color>
+    <color name="gws_lightsteelbluegray700">#5b606a</color>
+    <color name="gws_lightsteelbluegray800">#444b55</color>
+    <color name="gws_lightsteelbluegray900">#363e4a</color>
+
+    <color name="gws_royalbluegray50">#e1e4ee</color>
+    <color name="gws_royalbluegray100">#d4d8e7</color>
+    <color name="gws_royalbluegray200">#c4c9d7</color>
+    <color name="gws_royalbluegray300">#aeb3c3</color>
+    <color name="gws_royalbluegray400">#9298ad</color>
+    <color name="gws_royalbluegray500">#747b92</color>
+    <color name="gws_royalbluegray600">#535a70</color>
+    <color name="gws_royalbluegray700">#343a4f</color>
+    <color name="gws_royalbluegray800">#262c3f</color>
+    <color name="gws_royalbluegray900">#151a29</color>
+
+    <color name="gws_darkbluegray50">#d3d3e7</color>
+    <color name="gws_darkbluegray100">#cdcde0</color>
+    <color name="gws_darkbluegray200">#b8b8ce</color>
+    <color name="gws_darkbluegray300">#a0a0ba</color>
+    <color name="gws_darkbluegray400">#8686a0</color>
+    <color name="gws_darkbluegray500">#676782</color>
+    <color name="gws_darkbluegray600">#4f4f6a</color>
+    <color name="gws_darkbluegray700">#3b3b56</color>
+    <color name="gws_darkbluegray800">#292946</color>
+    <color name="gws_darkbluegray900">#1c1c36</color>
+
+
+    <color name="gws_orchidgray50">#ebd9eb</color>
+    <color name="gws_orchidgray100">#dac5da</color>
+    <color name="gws_orchidgray200">#cebbce</color>
+    <color name="gws_orchidgray300">#bdaabd</color>
+    <color name="gws_orchidgray400">#a291a2</color>
+    <color name="gws_orchidgray500">#907c90</color>
+    <color name="gws_orchidgray600">#826c82</color>
+    <color name="gws_orchidgray700">#614f61</color>
+    <color name="gws_orchidgray800">#4b394b</color>
+    <color name="gws_orchidgray900">#382938</color>
+
+    <color name="gws_violetgray50">#e9dbe9</color>
+    <color name="gws_violetgray100">#e0cee0</color>
+    <color name="gws_violetgray200">#cfbbcf</color>
+    <color name="gws_violetgray300">#b8a7b8</color>
+    <color name="gws_violetgray400">#a492a4</color>
+    <color name="gws_violetgray500">#948094</color>
+    <color name="gws_violetgray600">#796379</color>
+    <color name="gws_violetgray700">#634c63</color>
+    <color name="gws_violetgray800">#483548</color>
+    <color name="gws_violetgray900">#322232</color>
+
+
+
+
+
+</resources>
