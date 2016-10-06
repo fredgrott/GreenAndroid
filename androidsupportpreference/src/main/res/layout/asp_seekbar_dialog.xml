@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:overScrollMode="ifContentScrolls"
+    tools:ignore="UnusedAttribute">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@android:id/message"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="?dialogPreferredPadding"
+            android:layout_marginRight="?dialogPreferredPadding"
+            android:layout_marginTop="@dimen/abc_dialog_padding_top_material"
+            android:textColor="?android:textColorSecondary"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="?dialogPreferredPadding"
+            android:paddingRight="?dialogPreferredPadding">
+
+            <!--<ImageView-->
+            <!--android:id="@android:id/icon"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="16dp"-->
+            <!--android:layout_marginStart="16dp"-->
+            <!--android:layout_marginRight="0dp"-->
+            <!--android:layout_marginEnd="0dp"-->
+            <!--tools:ignore="ContentDescription"/>-->
+
+            <ImageView
+                android:id="@android:id/icon"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginEnd="12dp"
+                android:layout_marginLeft="-4dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginStart="-4dp"
+                android:layout_marginTop="16dp"
+                android:maxHeight="48dp"
+                android:maxWidth="48dp"
+                android:scaleType="fitStart"/>
+
+            <SeekBar
+                android:id="@+id/seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="-8dp"
+                android:layout_marginLeft="-16dp"
+                android:layout_marginRight="-8dp"
+                android:layout_marginStart="-16dp"
+                android:paddingBottom="@dimen/abc_dialog_padding_top_material"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="@dimen/abc_dialog_padding_top_material"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,25 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+           xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Choice in the ringtone picker.  If chosen, the default ringtone will be used. -->
+    <string name="ringtone_default">Výchozí vyzváněcí tón</string>
+    <!-- Choice in the ringtone picker.  If chosen, there will be silence instead of a ringtone played. -->
+    <string name="ringtone_silent">Žádné</string>
+    <!-- The title of the ringtone picker dialog. -->
+    <string name="ringtone_picker_title">Vyzváněcí tóny</string>
+
+    <!-- Choice in the notification sound picker.  If chosen, the default notification sound will be
+         used. -->
+    <string name="notification_sound_default">Výchozí zvuk oznámení</string>
+    <!-- Choice in the alarm sound picker.  If chosen, the default alarm sound will be used. -->
+    <string name="alarm_sound_default">Výchozí zvuk budíku</string>
+
+    <!-- Default text for a button that can be toggled on and off. -->
+    <string name="capital_on">I</string>
+    <!-- Default text for a button that can be toggled on and off. -->
+    <string name="capital_off">O</string>
+    <string name="color_picker_default_title" msgid="1248663997452044787">"Vyberte barvu"</string>
+    <string name="color_swatch_description" msgid="2883438431173736180">"Barva <xliff:g id="COLOR_INDEX">%1$d</xliff:g>"</string>
+    <string name="color_swatch_description_selected" msgid="5020921249944943124">"Barva <xliff:g id="COLOR_INDEX">%1$d</xliff:g> je vybrÃ¡na"</string>
+
+
+</resources>
