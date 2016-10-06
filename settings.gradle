@@ -1,1 +1,1 @@
-include ':app', ':materialdrawer', ':materialize', ':typeface', ':fastadapter', ':zdepth', ':rippleeffect', ':gwsmaterial', ':androidsupportpreference'
+include ':app', ':materialdrawer', ':materialize', ':typeface', ':fastadapter', ':zdepth', ':rippleeffect', ':gwsmaterial', ':androidsupportpreference', ':actionitembadge'
