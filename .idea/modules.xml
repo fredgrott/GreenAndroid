@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/materialdrawer/materialdrawer.iml" filepath="$PROJECT_DIR$/materialdrawer/materialdrawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialize/materialize.iml" filepath="$PROJECT_DIR$/materialize/materialize.iml" />
       <module fileurl="file://$PROJECT_DIR$/meteoconstypeface/meteoconstypeface.iml" filepath="$PROJECT_DIR$/meteoconstypeface/meteoconstypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observablescrollview/observablescrollview.iml" filepath="$PROJECT_DIR$/observablescrollview/observablescrollview.iml" />
       <module fileurl="file://$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" filepath="$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/reveal/reveal.iml" filepath="$PROJECT_DIR$/reveal/reveal.iml" />
       <module fileurl="file://$PROJECT_DIR$/rippleeffect/rippleeffect.iml" filepath="$PROJECT_DIR$/rippleeffect/rippleeffect.iml" />
