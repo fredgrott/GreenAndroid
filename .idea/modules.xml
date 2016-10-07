@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/rippleeffect/rippleeffect.iml" filepath="$PROJECT_DIR$/rippleeffect/rippleeffect.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" filepath="$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewanim/viewanim.iml" filepath="$PROJECT_DIR$/viewanim/viewanim.iml" />
       <module fileurl="file://$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" filepath="$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/zdepth/zdepth.iml" filepath="$PROJECT_DIR$/zdepth/zdepth.iml" />
     </modules>
