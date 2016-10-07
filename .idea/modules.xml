@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenAndroid.iml" filepath="$PROJECT_DIR$/GreenAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionitembadge/actionitembadge.iml" filepath="$PROJECT_DIR$/actionitembadge/actionitembadge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aligned/aligned.iml" filepath="$PROJECT_DIR$/aligned/aligned.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" filepath="$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/communitymaterialtypeface/communitymaterialtypeface.iml" filepath="$PROJECT_DIR$/communitymaterialtypeface/communitymaterialtypeface.iml" />
