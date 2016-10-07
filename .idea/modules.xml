@@ -11,14 +11,24 @@
       <module fileurl="file://$PROJECT_DIR$/crossfader/crossfader.iml" filepath="$PROJECT_DIR$/crossfader/crossfader.iml" />
       <module fileurl="file://$PROJECT_DIR$/devicontypeface/devicontypeface.iml" filepath="$PROJECT_DIR$/devicontypeface/devicontypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" filepath="$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entypotypeface/entypotypeface.iml" filepath="$PROJECT_DIR$/entypotypeface/entypotypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastadapter/fastadapter.iml" filepath="$PROJECT_DIR$/fastadapter/fastadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fontawesometypeface/fontawesometypeface.iml" filepath="$PROJECT_DIR$/fontawesometypeface/fontawesometypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundationiconstypeface/foundationiconstypeface.iml" filepath="$PROJECT_DIR$/foundationiconstypeface/foundationiconstypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlematerialtypeface/googlematerialtypeface.iml" filepath="$PROJECT_DIR$/googlematerialtypeface/googlematerialtypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsmaterial/gwsmaterial.iml" filepath="$PROJECT_DIR$/gwsmaterial/gwsmaterial.iml" />
       <module fileurl="file://$PROJECT_DIR$/iconicscore/iconicscore.iml" filepath="$PROJECT_DIR$/iconicscore/iconicscore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioniconstypeface/ioniconstypeface.iml" filepath="$PROJECT_DIR$/ioniconstypeface/ioniconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/itemanimators/itemanimators.iml" filepath="$PROJECT_DIR$/itemanimators/itemanimators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialdesignionictypeface/materialdesignionictypeface.iml" filepath="$PROJECT_DIR$/materialdesignionictypeface/materialdesignionictypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialdrawer/materialdrawer.iml" filepath="$PROJECT_DIR$/materialdrawer/materialdrawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialize/materialize.iml" filepath="$PROJECT_DIR$/materialize/materialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meteoconstypeface/meteoconstypeface.iml" filepath="$PROJECT_DIR$/meteoconstypeface/meteoconstypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" filepath="$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/rippleeffect/rippleeffect.iml" filepath="$PROJECT_DIR$/rippleeffect/rippleeffect.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" filepath="$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" filepath="$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/zdepth/zdepth.iml" filepath="$PROJECT_DIR$/zdepth/zdepth.iml" />
     </modules>
   </component>
