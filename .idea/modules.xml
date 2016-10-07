@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/crossfader/crossfader.iml" filepath="$PROJECT_DIR$/crossfader/crossfader.iml" />
       <module fileurl="file://$PROJECT_DIR$/devicontypeface/devicontypeface.iml" filepath="$PROJECT_DIR$/devicontypeface/devicontypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" filepath="$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easing/easing.iml" filepath="$PROJECT_DIR$/easing/easing.iml" />
       <module fileurl="file://$PROJECT_DIR$/entypotypeface/entypotypeface.iml" filepath="$PROJECT_DIR$/entypotypeface/entypotypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastadapter/fastadapter.iml" filepath="$PROJECT_DIR$/fastadapter/fastadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontawesometypeface/fontawesometypeface.iml" filepath="$PROJECT_DIR$/fontawesometypeface/fontawesometypeface.iml" />
