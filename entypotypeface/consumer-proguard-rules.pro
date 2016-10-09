@@ -1,0 +1,1 @@
+-keep class com.github.shareme.greenandroid.entypo_typeface.Entypo { *; }

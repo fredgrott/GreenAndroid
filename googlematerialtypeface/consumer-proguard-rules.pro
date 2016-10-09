@@ -1,0 +1,1 @@
+-keep class com.github.shareme.greenandroid.google_material_typeface.GoogleMaterial { *; }

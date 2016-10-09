@@ -1,0 +1,1 @@
+-keep class com.github.shareme.greenandroid.weather_icons_typeface.WeatherIcons { *; }

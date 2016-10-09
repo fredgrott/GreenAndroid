@@ -15,6 +15,8 @@ android {
         jackOptions{
             enabled false
         }
+        consumerProguardFiles 'consumer-proguard-rules.pro'
+
 
     }
     compileOptions {

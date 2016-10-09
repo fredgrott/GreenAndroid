@@ -1,0 +1,1 @@
+-keep class com.github.shareme.greenandroid.meteocons_typeface.Meteoconcs { *; }

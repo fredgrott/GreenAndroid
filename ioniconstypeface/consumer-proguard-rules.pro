@@ -1,0 +1,1 @@
+-keep class com.github.shareme.greenandroid.ionicons_typeface.Ionicons { *; }
