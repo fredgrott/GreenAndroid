@@ -38,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/multistateanimation/multistateanimation.iml" filepath="$PROJECT_DIR$/multistateanimation/multistateanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/observablescrollview/observablescrollview.iml" filepath="$PROJECT_DIR$/observablescrollview/observablescrollview.iml" />
       <module fileurl="file://$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" filepath="$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pathview/pathview.iml" filepath="$PROJECT_DIR$/pathview/pathview.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickscroll/quickscroll.iml" filepath="$PROJECT_DIR$/quickscroll/quickscroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/reveal/reveal.iml" filepath="$PROJECT_DIR$/reveal/reveal.iml" />
       <module fileurl="file://$PROJECT_DIR$/rippleeffect/rippleeffect.iml" filepath="$PROJECT_DIR$/rippleeffect/rippleeffect.iml" />
