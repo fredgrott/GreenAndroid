@@ -22,8 +22,40 @@ allprojects {
     repositories {
         jcenter()
     }
+    tasks.withType(JavaForkOptions) {
+        // Forked processes like GradleWorkerMain for tests won't steal focus!
+        jvmArgs '-Djava.awt.headless=true'
+    }
+    // for jdk8 to avoid the R.java errors
+    if (JavaVersion.current().isJava8Compatible()){
+        tasks.withType(Javadoc) {
+            options.addStringOption('Xdoclint:none', '-quiet')
+        }
+    }
+
 }
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+
+ext {
+    //sdk and tools
+    minSdkVersion = 16
+    targetSdkVersion = 24
+    compileSdkVersion = 24
+    buildToolsVersion = '24.0.3'
+
+    //Configure stuff
+    ourReportsDir = '${project.buildDir}/reports'
+
+    // module dependencies
+    supportLibraryVersion ='24.2.1'
+    junitVersion = '4.12'
+    espressoVersion = '2.2.2'
+    uiautomatorVersion = '2.1.2'
+    runnerVersion = '0.6-alpha'
+    rulesVersion = '0.6-alpha'
+    timberVersion = '4.1.2'
+
 }
