@@ -65,8 +65,8 @@ public class FormAutoCompleteTextView extends AutoCompleteTextView {
      * @throws IllegalArgumentException
      *             if the validator is null
      */
-    public void addValidator(Validator theValidator) throws IllegalArgumentException {
-        editTextValidator.addValidator((com.github.shareme.greenandroid.edittextvalidator.formedittextvalidator.Validator) theValidator);
+    public void addValidator(com.github.shareme.greenandroid.edittextvalidator.formedittextvalidator.Validator theValidator) throws IllegalArgumentException {
+        editTextValidator.addValidator(theValidator);
     }
 
     public EditTextValidator getEditTextValidator() {
