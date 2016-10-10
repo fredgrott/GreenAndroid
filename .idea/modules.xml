@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/easing/easing.iml" filepath="$PROJECT_DIR$/easing/easing.iml" />
       <module fileurl="file://$PROJECT_DIR$/entypotypeface/entypotypeface.iml" filepath="$PROJECT_DIR$/entypotypeface/entypotypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastadapter/fastadapter.iml" filepath="$PROJECT_DIR$/fastadapter/fastadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatingtoolbar/floatingtoolbar.iml" filepath="$PROJECT_DIR$/floatingtoolbar/floatingtoolbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontawesometypeface/fontawesometypeface.iml" filepath="$PROJECT_DIR$/fontawesometypeface/fontawesometypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/foundationiconstypeface/foundationiconstypeface.iml" filepath="$PROJECT_DIR$/foundationiconstypeface/foundationiconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/googlematerialtypeface/googlematerialtypeface.iml" filepath="$PROJECT_DIR$/googlematerialtypeface/googlematerialtypeface.iml" />
