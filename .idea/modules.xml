@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/iconicscore/iconicscore.iml" filepath="$PROJECT_DIR$/iconicscore/iconicscore.iml" />
       <module fileurl="file://$PROJECT_DIR$/ioniconstypeface/ioniconstypeface.iml" filepath="$PROJECT_DIR$/ioniconstypeface/ioniconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/itemanimators/itemanimators.iml" filepath="$PROJECT_DIR$/itemanimators/itemanimators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kenburnsview/kenburnsview.iml" filepath="$PROJECT_DIR$/kenburnsview/kenburnsview.iml" />
       <module fileurl="file://$PROJECT_DIR$/leonids/leonids.iml" filepath="$PROJECT_DIR$/leonids/leonids.iml" />
       <module fileurl="file://$PROJECT_DIR$/loadingdrawable/loadingdrawable.iml" filepath="$PROJECT_DIR$/loadingdrawable/loadingdrawable.iml" />
       <module fileurl="file://$PROJECT_DIR$/lswitch/lswitch.iml" filepath="$PROJECT_DIR$/lswitch/lswitch.iml" />
@@ -47,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/reveal/reveal.iml" filepath="$PROJECT_DIR$/reveal/reveal.iml" />
       <module fileurl="file://$PROJECT_DIR$/rippleeffect/rippleeffect.iml" filepath="$PROJECT_DIR$/rippleeffect/rippleeffect.iml" />
       <module fileurl="file://$PROJECT_DIR$/shadowlayout/shadowlayout.iml" filepath="$PROJECT_DIR$/shadowlayout/shadowlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shapeimageview/shapeimageview.iml" filepath="$PROJECT_DIR$/shapeimageview/shapeimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinkit/spinkit.iml" filepath="$PROJECT_DIR$/spinkit/spinkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" filepath="$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" />

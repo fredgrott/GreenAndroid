@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/iconicscore" />
             <option value="$PROJECT_DIR$/ioniconstypeface" />
             <option value="$PROJECT_DIR$/itemanimators" />
+            <option value="$PROJECT_DIR$/kenburnsview" />
             <option value="$PROJECT_DIR$/leonids" />
             <option value="$PROJECT_DIR$/loadingdrawable" />
             <option value="$PROJECT_DIR$/lswitch" />
@@ -53,6 +54,7 @@
             <option value="$PROJECT_DIR$/reveal" />
             <option value="$PROJECT_DIR$/rippleeffect" />
             <option value="$PROJECT_DIR$/shadowlayout" />
+            <option value="$PROJECT_DIR$/shapeimageview" />
             <option value="$PROJECT_DIR$/spinkit" />
             <option value="$PROJECT_DIR$/typeface" />
             <option value="$PROJECT_DIR$/typeiconstypeface" />
