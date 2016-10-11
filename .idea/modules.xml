@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenAndroid.iml" filepath="$PROJECT_DIR$/GreenAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarprogress/actionbarprogress.iml" filepath="$PROJECT_DIR$/actionbarprogress/actionbarprogress.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionitembadge/actionitembadge.iml" filepath="$PROJECT_DIR$/actionitembadge/actionitembadge.iml" />
       <module fileurl="file://$PROJECT_DIR$/aligned/aligned.iml" filepath="$PROJECT_DIR$/aligned/aligned.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" filepath="$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" />
