@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/aligned" />
             <option value="$PROJECT_DIR$/androidsupportpreference" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/arcanimator" />
             <option value="$PROJECT_DIR$/chipview" />
             <option value="$PROJECT_DIR$/communitymaterialtypeface" />
             <option value="$PROJECT_DIR$/crossfadedrawerlayout" />
@@ -42,6 +43,7 @@
             <option value="$PROJECT_DIR$/materialanimations" />
             <option value="$PROJECT_DIR$/materialdesignionictypeface" />
             <option value="$PROJECT_DIR$/materialdrawer" />
+            <option value="$PROJECT_DIR$/materialfabsheet" />
             <option value="$PROJECT_DIR$/materialize" />
             <option value="$PROJECT_DIR$/materialleanback" />
             <option value="$PROJECT_DIR$/materialrangebar" />
