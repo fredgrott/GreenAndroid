@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" filepath="$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arcanimator/arcanimator.iml" filepath="$PROJECT_DIR$/arcanimator/arcanimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" filepath="$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/chipview/chipview.iml" filepath="$PROJECT_DIR$/chipview/chipview.iml" />
       <module fileurl="file://$PROJECT_DIR$/communitymaterialtypeface/communitymaterialtypeface.iml" filepath="$PROJECT_DIR$/communitymaterialtypeface/communitymaterialtypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/crossfadedrawerlayout/crossfadedrawerlayout.iml" filepath="$PROJECT_DIR$/crossfadedrawerlayout/crossfadedrawerlayout.iml" />
