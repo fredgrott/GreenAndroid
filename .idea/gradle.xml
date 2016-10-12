@@ -43,6 +43,7 @@
             <option value="$PROJECT_DIR$/materialanimations" />
             <option value="$PROJECT_DIR$/materialdesignionictypeface" />
             <option value="$PROJECT_DIR$/materialdrawer" />
+            <option value="$PROJECT_DIR$/materialextras" />
             <option value="$PROJECT_DIR$/materialfabsheet" />
             <option value="$PROJECT_DIR$/materialize" />
             <option value="$PROJECT_DIR$/materialleanback" />
@@ -62,6 +63,7 @@
             <option value="$PROJECT_DIR$/selectableroundedimageview" />
             <option value="$PROJECT_DIR$/shadowlayout" />
             <option value="$PROJECT_DIR$/shapeimageview" />
+            <option value="$PROJECT_DIR$/shaperipple" />
             <option value="$PROJECT_DIR$/spinkit" />
             <option value="$PROJECT_DIR$/springindicator" />
             <option value="$PROJECT_DIR$/transitionseverywhere" />

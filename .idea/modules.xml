@@ -37,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/materialanimations/materialanimations.iml" filepath="$PROJECT_DIR$/materialanimations/materialanimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialdesignionictypeface/materialdesignionictypeface.iml" filepath="$PROJECT_DIR$/materialdesignionictypeface/materialdesignionictypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialdrawer/materialdrawer.iml" filepath="$PROJECT_DIR$/materialdrawer/materialdrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialextras/materialextras.iml" filepath="$PROJECT_DIR$/materialextras/materialextras.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialfabsheet/materialfabsheet.iml" filepath="$PROJECT_DIR$/materialfabsheet/materialfabsheet.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialize/materialize.iml" filepath="$PROJECT_DIR$/materialize/materialize.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialleanback/materialleanback.iml" filepath="$PROJECT_DIR$/materialleanback/materialleanback.iml" />
@@ -56,6 +57,7 @@
       <module fileurl="file://$PROJECT_DIR$/selectableroundedimageview/selectableroundedimageview.iml" filepath="$PROJECT_DIR$/selectableroundedimageview/selectableroundedimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/shadowlayout/shadowlayout.iml" filepath="$PROJECT_DIR$/shadowlayout/shadowlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/shapeimageview/shapeimageview.iml" filepath="$PROJECT_DIR$/shapeimageview/shapeimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shaperipple/shaperipple.iml" filepath="$PROJECT_DIR$/shaperipple/shaperipple.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinkit/spinkit.iml" filepath="$PROJECT_DIR$/spinkit/spinkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/springindicator/springindicator.iml" filepath="$PROJECT_DIR$/springindicator/springindicator.iml" />
       <module fileurl="file://$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" filepath="$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" />
