@@ -53,6 +53,7 @@
       <module fileurl="file://$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" filepath="$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/pathview/pathview.iml" filepath="$PROJECT_DIR$/pathview/pathview.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickscroll/quickscroll.iml" filepath="$PROJECT_DIR$/quickscroll/quickscroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebound/rebound.iml" filepath="$PROJECT_DIR$/rebound/rebound.iml" />
       <module fileurl="file://$PROJECT_DIR$/reveal/reveal.iml" filepath="$PROJECT_DIR$/reveal/reveal.iml" />
       <module fileurl="file://$PROJECT_DIR$/rippleeffect/rippleeffect.iml" filepath="$PROJECT_DIR$/rippleeffect/rippleeffect.iml" />
       <module fileurl="file://$PROJECT_DIR$/selectableroundedimageview/selectableroundedimageview.iml" filepath="$PROJECT_DIR$/selectableroundedimageview/selectableroundedimageview.iml" />
@@ -61,6 +62,7 @@
       <module fileurl="file://$PROJECT_DIR$/shaperipple/shaperipple.iml" filepath="$PROJECT_DIR$/shaperipple/shaperipple.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinkit/spinkit.iml" filepath="$PROJECT_DIR$/spinkit/spinkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/springindicator/springindicator.iml" filepath="$PROJECT_DIR$/springindicator/springindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tastytoast/tastytoast.iml" filepath="$PROJECT_DIR$/tastytoast/tastytoast.iml" />
       <module fileurl="file://$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" filepath="$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" filepath="$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" />
