@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" filepath="$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/cardscards/cardscards.iml" filepath="$PROJECT_DIR$/cardscards/cardscards.iml" />
       <module fileurl="file://$PROJECT_DIR$/cardscore/cardscore.iml" filepath="$PROJECT_DIR$/cardscore/cardscore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardsrecyclerview/cardsrecyclerview.iml" filepath="$PROJECT_DIR$/cardsrecyclerview/cardsrecyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/chipview/chipview.iml" filepath="$PROJECT_DIR$/chipview/chipview.iml" />
       <module fileurl="file://$PROJECT_DIR$/circularreveal/circularreveal.iml" filepath="$PROJECT_DIR$/circularreveal/circularreveal.iml" />
       <module fileurl="file://$PROJECT_DIR$/communitymaterialtypeface/communitymaterialtypeface.iml" filepath="$PROJECT_DIR$/communitymaterialtypeface/communitymaterialtypeface.iml" />
