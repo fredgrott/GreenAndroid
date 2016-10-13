@@ -71,6 +71,7 @@
       <module fileurl="file://$PROJECT_DIR$/viewdecorator/viewdecorator.iml" filepath="$PROJECT_DIR$/viewdecorator/viewdecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagertransforms/viewpagertransforms.iml" filepath="$PROJECT_DIR$/viewpagertransforms/viewpagertransforms.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewrevealanimator/viewrevealanimator.iml" filepath="$PROJECT_DIR$/viewrevealanimator/viewrevealanimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waveprogressbar/waveprogressbar.iml" filepath="$PROJECT_DIR$/waveprogressbar/waveprogressbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" filepath="$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/zdepth/zdepth.iml" filepath="$PROJECT_DIR$/zdepth/zdepth.iml" />
     </modules>
