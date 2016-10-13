@@ -62,6 +62,7 @@
       <module fileurl="file://$PROJECT_DIR$/shaperipple/shaperipple.iml" filepath="$PROJECT_DIR$/shaperipple/shaperipple.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinkit/spinkit.iml" filepath="$PROJECT_DIR$/spinkit/spinkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/springindicator/springindicator.iml" filepath="$PROJECT_DIR$/springindicator/springindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stateprogressbar/stateprogressbar.iml" filepath="$PROJECT_DIR$/stateprogressbar/stateprogressbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/tastytoast/tastytoast.iml" filepath="$PROJECT_DIR$/tastytoast/tastytoast.iml" />
       <module fileurl="file://$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" filepath="$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
