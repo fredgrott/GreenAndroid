@@ -59,6 +59,7 @@
       <module fileurl="file://$PROJECT_DIR$/quickscroll/quickscroll.iml" filepath="$PROJECT_DIR$/quickscroll/quickscroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/rebound/rebound.iml" filepath="$PROJECT_DIR$/rebound/rebound.iml" />
       <module fileurl="file://$PROJECT_DIR$/reveal/reveal.iml" filepath="$PROJECT_DIR$/reveal/reveal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revealfab/revealfab.iml" filepath="$PROJECT_DIR$/revealfab/revealfab.iml" />
       <module fileurl="file://$PROJECT_DIR$/rippleeffect/rippleeffect.iml" filepath="$PROJECT_DIR$/rippleeffect/rippleeffect.iml" />
       <module fileurl="file://$PROJECT_DIR$/selectableroundedimageview/selectableroundedimageview.iml" filepath="$PROJECT_DIR$/selectableroundedimageview/selectableroundedimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/shadowlayout/shadowlayout.iml" filepath="$PROJECT_DIR$/shadowlayout/shadowlayout.iml" />
