@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/easing/easing.iml" filepath="$PROJECT_DIR$/easing/easing.iml" />
       <module fileurl="file://$PROJECT_DIR$/edittextvalidator/edittextvalidator.iml" filepath="$PROJECT_DIR$/edittextvalidator/edittextvalidator.iml" />
       <module fileurl="file://$PROJECT_DIR$/entypotypeface/entypotypeface.iml" filepath="$PROJECT_DIR$/entypotypeface/entypotypeface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabtransitionlayout/fabtransitionlayout.iml" filepath="$PROJECT_DIR$/fabtransitionlayout/fabtransitionlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastadapter/fastadapter.iml" filepath="$PROJECT_DIR$/fastadapter/fastadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/fillableloaders/fillableloaders.iml" filepath="$PROJECT_DIR$/fillableloaders/fillableloaders.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatingtoolbar/floatingtoolbar.iml" filepath="$PROJECT_DIR$/floatingtoolbar/floatingtoolbar.iml" />
