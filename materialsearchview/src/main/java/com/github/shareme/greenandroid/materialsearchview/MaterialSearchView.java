@@ -33,7 +33,6 @@ import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
@@ -54,6 +53,8 @@ import com.github.shareme.greenandroid.materialsearchview.utils.AnimationUtil;
 
 import java.lang.reflect.Field;
 import java.util.List;
+
+import timber.log.Timber;
 
 /**
  * @author Miguel Catalan Bañuls
@@ -368,7 +369,7 @@ public class MaterialSearchView extends FrameLayout implements Filter.FilterList
             f.setAccessible(true);
             f.set(mSearchSrcTextView, drawable);
         } catch (Exception ignored) {
-            Log.e("MaterialSearchView", ignored.toString());
+            Timber.e("MaterialSearchView", ignored.toString());
         }
     }
 
