@@ -31,7 +31,6 @@ import android.os.Build;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.accessibility.AccessibilityEvent;
@@ -41,6 +40,8 @@ import android.view.animation.AnimationUtils;
 import android.view.animation.Interpolator;
 import android.widget.FrameLayout;
 import android.widget.ViewAnimator;
+
+import timber.log.Timber;
 
 /**
  * Created by alessandro crugnola on 14/11/14.
@@ -160,7 +161,7 @@ public class ViewRevealAnimator extends FrameLayout {
 
     public void setDisplayedChild(int whichChild, boolean animate, @Nullable Point origin) {
         if (DBG) {
-            Log.i(TAG, "setDisplayedChild, current: " + mWhichChild + ", next: " + whichChild);
+            Timber.i(TAG, "setDisplayedChild, current: " + mWhichChild + ", next: " + whichChild);
         }
 
         if (whichChild == mWhichChild) {
@@ -202,7 +203,7 @@ public class ViewRevealAnimator extends FrameLayout {
 
     void showOnly(int previousChild, int childIndex, boolean animate, @Nullable Point origin) {
         if (DBG) {
-            Log.i(TAG, "showOnly: " + previousChild + " >> " + childIndex + ", animate: " + animate);
+            Timber.i(TAG, "showOnly: " + previousChild + " >> " + childIndex + ", animate: " + animate);
         }
 
         animate = animate && shouldAnimate();
@@ -222,7 +223,7 @@ public class ViewRevealAnimator extends FrameLayout {
         newPoint.x = (targetView.getWidth()) / 2;
         newPoint.y = (targetView.getHeight()) / 2;
         if (DBG) {
-            Log.v(TAG, "getViewCenter: " + newPoint.x + ", " + newPoint.y);
+            Timber.v(TAG, "getViewCenter: " + newPoint.x + ", " + newPoint.y);
         }
         return newPoint;
     }
@@ -256,7 +257,7 @@ public class ViewRevealAnimator extends FrameLayout {
     @Override
     public void addView(View child, int index, ViewGroup.LayoutParams params) {
         if (DBG) {
-            Log.i(TAG, "addView, index: " + index + ", current children: " + getChildCount());
+            Timber.i(TAG, "addView, index: " + index + ", current children: " + getChildCount());
         }
         super.addView(child, index, params);
         if (getChildCount() == 1) {

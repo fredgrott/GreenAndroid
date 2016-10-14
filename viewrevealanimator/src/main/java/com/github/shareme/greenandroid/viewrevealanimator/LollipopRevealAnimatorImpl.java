@@ -29,10 +29,11 @@ import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
 import android.graphics.Point;
 import android.support.annotation.Nullable;
-import android.util.Log;
 import android.view.View;
 import android.view.ViewAnimationUtils;
 import android.view.ViewTreeObserver;
+
+import timber.log.Timber;
 
 import static com.github.shareme.greenandroid.viewrevealanimator.ViewRevealAnimator.DBG;
 
@@ -50,9 +51,9 @@ class LollipopRevealAnimatorImpl extends RevealAnimatorImpl {
     @TargetApi (21)
     private void circularHide(final int previousIndex, final int nextIndex, @Nullable final Point origin) {
         if (DBG) {
-            Log.i(TAG, "circularHide: " + previousIndex + " > " + nextIndex);
+            Timber.i(TAG, "circularHide: " + previousIndex + " > " + nextIndex);
             if (null != origin) {
-                Log.v(TAG, "origin: " + origin.x + "x" + origin.y);
+                Timber.v(TAG, "origin: " + origin.x + "x" + origin.y);
             }
         }
         mAnimatorAnimating = true;
@@ -81,7 +82,7 @@ class LollipopRevealAnimatorImpl extends RevealAnimatorImpl {
                 @Override
                 public void onAnimationCancel(final Animator animation) {
                     if (DBG) {
-                        Log.v(TAG, "onAnimationCancel(hide)");
+                        Timber.v(TAG, "onAnimationCancel(hide)");
                     }
                     isCancelled = true;
                     mAnimatorAnimating = false;
@@ -90,7 +91,7 @@ class LollipopRevealAnimatorImpl extends RevealAnimatorImpl {
                 @Override
                 public void onAnimationEnd(final Animator animation) {
                     if (DBG) {
-                        Log.v(TAG, "onAnimationEnd(hide), isCancelled: " + isCancelled);
+                        Timber.v(TAG, "onAnimationEnd(hide), isCancelled: " + isCancelled);
                     }
                     if (!isCancelled) {
                         super.onAnimationEnd(animation);
@@ -110,9 +111,9 @@ class LollipopRevealAnimatorImpl extends RevealAnimatorImpl {
     private void circularReveal(
         final int previousIndex, final int nextIndex, final boolean hideBeforeReveal, @Nullable final Point origin) {
         if (DBG) {
-            Log.i(TAG, "circularReveal: " + previousIndex + " > " + nextIndex);
+            Timber.i(TAG, "circularReveal: " + previousIndex + " > " + nextIndex);
             if (null != origin) {
-                Log.v(TAG, "origin: " + origin.x + "x" + origin.y);
+                Timber.v(TAG, "origin: " + origin.x + "x" + origin.y);
             }
         }
 
@@ -136,7 +137,7 @@ class LollipopRevealAnimatorImpl extends RevealAnimatorImpl {
                         targetView.getViewTreeObserver().removeOnPreDrawListener(this);
 
                         if (DBG) {
-                            Log.d(TAG, "onPreDraw");
+                            Timber.d(TAG, "onPreDraw");
                         }
 
                         if (targetView.getWidth() == 0 || targetView.getHeight() == 0) {
@@ -186,7 +187,7 @@ class LollipopRevealAnimatorImpl extends RevealAnimatorImpl {
                 @Override
                 public void onAnimationCancel(final Animator animation) {
                     if (DBG) {
-                        Log.v(TAG, "onAnimationCancel(show)");
+                        Timber.v(TAG, "onAnimationCancel(show)");
                     }
                     isCancelled = true;
                     mAnimatorAnimating = false;
@@ -219,7 +220,7 @@ class LollipopRevealAnimatorImpl extends RevealAnimatorImpl {
     @Override
     public void showOnlyNoAnimation(final int previousIndex, final int childIndex) {
         if (DBG) {
-            Log.i(TAG, "showOnlyNoAnimation: " + previousIndex + " > " + childIndex);
+            Timber.i(TAG, "showOnlyNoAnimation: " + previousIndex + " > " + childIndex);
         }
 
         for (int i = 0; i < parent.getChildCount(); i++) {

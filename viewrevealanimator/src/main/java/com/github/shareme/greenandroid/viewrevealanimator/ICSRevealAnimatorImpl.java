@@ -26,9 +26,10 @@ package com.github.shareme.greenandroid.viewrevealanimator;
 
 import android.graphics.Point;
 import android.support.annotation.Nullable;
-import android.util.Log;
 import android.view.View;
 import android.view.animation.Animation;
+
+import timber.log.Timber;
 
 import static com.github.shareme.greenandroid.viewrevealanimator.ViewRevealAnimator.DBG;
 
@@ -44,7 +45,7 @@ public class ICSRevealAnimatorImpl extends RevealAnimatorImpl {
     @Override
     public void showOnly(final int previousChild, final int childIndex, @Nullable final Point origin) {
         if (DBG) {
-            Log.i(TAG, "showOnly: " + previousChild + " >> " + childIndex);
+            Timber.i(TAG, "showOnly: " + previousChild + " >> " + childIndex);
         }
 
         parent.mInAnimation.setAnimationListener(new MyAnimationListener(previousChild, childIndex));
@@ -118,7 +119,7 @@ public class ICSRevealAnimatorImpl extends RevealAnimatorImpl {
         @Override
         public void onAnimationEnd(final Animation animation) {
             if (DBG) {
-                Log.d(TAG, "onAnimationEnd");
+                Timber.d(TAG, "onAnimationEnd");
             }
             parent.onAnimationCompleted(prevIndex, childIndex);
             parent.onViewChanged(prevIndex, childIndex);
