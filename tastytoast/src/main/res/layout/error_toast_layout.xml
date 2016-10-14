@@ -26,12 +26,12 @@
             android:layout_height="match_parent"
             android:gravity="center">
 
-            <com.sdsmdg.tastytoast.ErrorToastView
+            <com.github.shareme.greenandroid.tastytoast.ErrorToastView
                 android:id="@+id/errorView"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_gravity="center_vertical|left"
-                android:layout_margin="10px"
+                android:layout_margin="10dp"
                 android:gravity="center_vertical|left" />
 
         </LinearLayout>

@@ -33,6 +33,7 @@ import com.github.shareme.greenandroid.rebound.core.SpringConfig;
 /**
  * Created by rahul on 28/7/16.
  */
+@SuppressWarnings("unused")
 public class TastyToast {
     public static final int LENGTH_SHORT = 0;
     public static final int LENGTH_LONG = 1;
