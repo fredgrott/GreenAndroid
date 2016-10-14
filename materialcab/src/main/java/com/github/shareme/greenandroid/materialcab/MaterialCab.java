@@ -17,6 +17,7 @@ language governing permissions and limitations under the License.
  */
 package com.github.shareme.greenandroid.materialcab;
 
+import android.annotation.SuppressLint;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.AttrRes;
@@ -93,6 +94,7 @@ public class MaterialCab implements Serializable, Toolbar.OnMenuItemClickListene
         return mActive;
     }
 
+    @SuppressLint("PrivateResource")
     @UiThread
     public MaterialCab reset() {
         mTitle = Util.resolveString(mContext, R.attr.mcab_title);
