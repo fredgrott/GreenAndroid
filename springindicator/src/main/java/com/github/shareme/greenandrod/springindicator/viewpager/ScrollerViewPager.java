@@ -35,11 +35,12 @@ package com.github.shareme.greenandrod.springindicator.viewpager;
 import android.content.Context;
 import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.animation.DecelerateInterpolator;
 
 import java.lang.reflect.Field;
+
+import timber.log.Timber;
 
 /**
  * Created by chenupt@gmail.com on 2015/3/7.
@@ -90,7 +91,7 @@ public class ScrollerViewPager extends ViewPager {
         try {
             return super.onInterceptTouchEvent(ev);
         } catch (IllegalArgumentException e) {
-            Log.e(TAG, "onInterceptTouchEvent in IllegalArgumentException");
+            Timber.e(TAG, "onInterceptTouchEvent in IllegalArgumentException");
             return false;
         }
     }
