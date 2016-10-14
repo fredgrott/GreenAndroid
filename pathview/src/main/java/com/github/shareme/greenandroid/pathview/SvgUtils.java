@@ -26,7 +26,6 @@ import android.graphics.PathMeasure;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.graphics.Region;
-import android.util.Log;
 
 import com.caverock.androidsvg.PreserveAspectRatio;
 import com.caverock.androidsvg.SVG;
@@ -34,6 +33,8 @@ import com.caverock.androidsvg.SVGParseException;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import timber.log.Timber;
 
 /**
  * Util class to init and get paths from svg.
@@ -79,7 +80,7 @@ public class SvgUtils {
             mSvg = SVG.getFromResource(context, svgResource);
             mSvg.setDocumentPreserveAspectRatio(PreserveAspectRatio.UNSCALED);
         } catch (SVGParseException e) {
-            Log.e(LOG_TAG, "Could not load specified SVG resource", e);
+            Timber.e(LOG_TAG, "Could not load specified SVG resource", e);
         }
     }
 

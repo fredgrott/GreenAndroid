@@ -28,12 +28,13 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 import android.view.animation.Interpolator;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import timber.log.Timber;
 
 /**
  * PathView is a View that animates paths.
@@ -322,7 +323,7 @@ public class PathView extends View implements SvgUtils.AnimationStepListener {
             try {
                 mLoader.join();
             } catch (InterruptedException e) {
-                Log.e(LOG_TAG, "Unexpected error", e);
+                Timber.e(LOG_TAG, "Unexpected error", e);
             }
         }
         if (svgResourceId != 0) {
