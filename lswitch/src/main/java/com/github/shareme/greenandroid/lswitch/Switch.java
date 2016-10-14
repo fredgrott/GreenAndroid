@@ -117,8 +117,8 @@ public class Switch extends CompoundButton {
         mThumbAnimateOffset = a.getDimensionPixelSize(R.styleable.Switch_thumbAnimateOffset, 4);
 
         a.recycle();
-
-
+        //getDrawable is depreciated and new ContextCompat.getDrawable() takes an int
+      //so need to change calls a little bit
         if(mThumbDrawable == null){
             mThumbDrawable = context.getResources().getDrawable(R.drawable.switch_inner);
         }
