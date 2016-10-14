@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <attr name="pv_progressMode" format="integer">
+        <enum name="determinate" value="0x00000000" />
+        <enum name="indeterminate" value="0x00000001" />
+        <enum name="buffer" value="0x00000002" />
+        <enum name="query" value="0x00000003" />
+    </attr>
+
+    <attr name="pv_progress" format="float"/>
+    <attr name="pv_secondaryProgress" format="float"/>
+
+    <attr name="rd_style" format="reference"/>
+    <attr name="rd_enable" format="boolean"/>
+
     <declare-styleable name="View">
         <attr name="android:background" />
         <attr name="android:backgroundTint" />

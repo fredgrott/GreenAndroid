@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SPB" parent="android:Widget.Material.ProgressBar.Horizontal">
+    </style>
+    <style name="CPB" parent="android:Widget.Material.ProgressBar">
+</style>
+
+    </resources>

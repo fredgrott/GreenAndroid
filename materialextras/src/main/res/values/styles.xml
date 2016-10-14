@@ -45,4 +45,12 @@
     </style>
 
 
+    <style name="Material.Drawable.LinearProgress.Determinate" parent="Material.Drawable.LinearProgress">
+        <item name="pv_progressMode">determinate</item>
+    </style>
+
+    <style name="Material.Drawable.LinearProgress.Query" parent="Material.Drawable.LinearProgress">
+        <item name="pv_progressMode">query</item>
+    </style>
+
 </resources>
