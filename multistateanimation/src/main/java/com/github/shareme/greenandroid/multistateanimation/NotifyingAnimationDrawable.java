@@ -30,6 +30,7 @@ import java.lang.ref.WeakReference;
  *
  * @author AJ Alt
  */
+@SuppressWarnings("unused")
 public class NotifyingAnimationDrawable extends AnimationDrawable {
     public interface OnAnimationFinishedListener {
         void onAnimationFinished();
