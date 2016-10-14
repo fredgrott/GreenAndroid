@@ -8,12 +8,14 @@ import android.support.v4.view.LayoutInflaterCompat;
 import android.support.v4.view.LayoutInflaterFactory;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
-import android.util.Log;
 import android.view.LayoutInflater;
+
+import timber.log.Timber;
 
 /**
  * Utility class for installing a ViewDecorator with an activity
  * */
+@SuppressWarnings("unused")
 public class ViewDecoratorInstaller {
     private static final String TAG = "ViewDecoratorInstaller";
 
@@ -49,7 +51,7 @@ public class ViewDecoratorInstaller {
             return true;
         }
 
-        Log.w(TAG, "view decorator can't be installed, layout infalter already has view factory installed");
+        Timber.w(TAG, "view decorator can't be installed, layout infalter already has view factory installed");
 
         return false;
     }
