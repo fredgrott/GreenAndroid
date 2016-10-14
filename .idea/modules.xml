@@ -68,6 +68,7 @@
       <module fileurl="file://$PROJECT_DIR$/shadowlayout/shadowlayout.iml" filepath="$PROJECT_DIR$/shadowlayout/shadowlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/shapeimageview/shapeimageview.iml" filepath="$PROJECT_DIR$/shapeimageview/shapeimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/shaperipple/shaperipple.iml" filepath="$PROJECT_DIR$/shaperipple/shaperipple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidebutton/slidebutton.iml" filepath="$PROJECT_DIR$/slidebutton/slidebutton.iml" />
       <module fileurl="file://$PROJECT_DIR$/smoothprogressbar/smoothprogressbar.iml" filepath="$PROJECT_DIR$/smoothprogressbar/smoothprogressbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinkit/spinkit.iml" filepath="$PROJECT_DIR$/spinkit/spinkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/springindicator/springindicator.iml" filepath="$PROJECT_DIR$/springindicator/springindicator.iml" />
