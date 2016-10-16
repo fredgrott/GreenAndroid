@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#607D8B</color>
+    <color name="primary_dark">#455A64</color>
+    <color name="primary_light">#CFD8DC</color>
+    <color name="accent">#607D8B</color>
+    <color name="primary_text">@color/gws_jetgray900</color>
+    <color name="secondary_text">@color/gws_jetgray600</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">@color/gws_turquoiseA700</color>
+
+    <color name="background">@color/gws_turquoise50</color>
+
+</resources>

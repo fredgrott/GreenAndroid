@@ -35,6 +35,7 @@ import java.util.List;
 /**
  * Created by florentchampigny on 28/08/15.
  */
+@SuppressWarnings("unused")
 public class CellViewHolder extends RecyclerView.ViewHolder {
 
     final static float scaleEnlarged = 1.2f;
