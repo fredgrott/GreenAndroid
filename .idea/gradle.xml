@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/androidsupportpreference" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/arcanimator" />
+            <option value="$PROJECT_DIR$/blaze" />
             <option value="$PROJECT_DIR$/bottomsheetbuilder" />
             <option value="$PROJECT_DIR$/cardscards" />
             <option value="$PROJECT_DIR$/cardscore" />
@@ -56,6 +57,7 @@
             <option value="$PROJECT_DIR$/materialize" />
             <option value="$PROJECT_DIR$/materialleanback" />
             <option value="$PROJECT_DIR$/materialleanbackapp" />
+            <option value="$PROJECT_DIR$/materiallist" />
             <option value="$PROJECT_DIR$/materialrangebar" />
             <option value="$PROJECT_DIR$/materialscrollbar" />
             <option value="$PROJECT_DIR$/materialscrolling" />

@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" filepath="$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arcanimator/arcanimator.iml" filepath="$PROJECT_DIR$/arcanimator/arcanimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blaze/blaze.iml" filepath="$PROJECT_DIR$/blaze/blaze.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" filepath="$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/cardscards/cardscards.iml" filepath="$PROJECT_DIR$/cardscards/cardscards.iml" />
       <module fileurl="file://$PROJECT_DIR$/cardscore/cardscore.iml" filepath="$PROJECT_DIR$/cardscore/cardscore.iml" />
@@ -50,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/materialize/materialize.iml" filepath="$PROJECT_DIR$/materialize/materialize.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialleanback/materialleanback.iml" filepath="$PROJECT_DIR$/materialleanback/materialleanback.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialleanbackapp/materialleanbackapp.iml" filepath="$PROJECT_DIR$/materialleanbackapp/materialleanbackapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materiallist/materiallist.iml" filepath="$PROJECT_DIR$/materiallist/materiallist.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialrangebar/materialrangebar.iml" filepath="$PROJECT_DIR$/materialrangebar/materialrangebar.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialscrollbar/materialscrollbar.iml" filepath="$PROJECT_DIR$/materialscrollbar/materialscrollbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialscrolling/materialscrolling.iml" filepath="$PROJECT_DIR$/materialscrolling/materialscrolling.iml" />

@@ -13,6 +13,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.github.shareme.greenandroid.materialize.MaterializeBuilder;
 import com.github.shareme.greenandroid.materialleanback.MaterialLeanBack;
 import com.squareup.picasso.Picasso;
 
@@ -36,6 +37,12 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         toolbar.setTitleTextColor(0xFFFFFFFF);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+        new MaterializeBuilder()
+                .withActivity(this)
+                .withFullscreen(true)
+                .withTransparentStatusBar(true)
+                .withTintedStatusBar(true).build();
 
         mDrawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         mDrawerToggle = new ActionBarDrawerToggle(this, mDrawer, 0, 0);
