@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/actionbarprogress" />
+            <option value="$PROJECT_DIR$/actionbarprogressapp" />
             <option value="$PROJECT_DIR$/actionitembadge" />
             <option value="$PROJECT_DIR$/aligned" />
             <option value="$PROJECT_DIR$/androidsupportpreference" />
