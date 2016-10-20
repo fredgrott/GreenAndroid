@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arcanimator/arcanimator.iml" filepath="$PROJECT_DIR$/arcanimator/arcanimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/blaze/blaze.iml" filepath="$PROJECT_DIR$/blaze/blaze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blazeapp/blazeapp.iml" filepath="$PROJECT_DIR$/blazeapp/blazeapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" filepath="$PROJECT_DIR$/bottomsheetbuilder/bottomsheetbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/cardscards/cardscards.iml" filepath="$PROJECT_DIR$/cardscards/cardscards.iml" />
       <module fileurl="file://$PROJECT_DIR$/cardscore/cardscore.iml" filepath="$PROJECT_DIR$/cardscore/cardscore.iml" />
