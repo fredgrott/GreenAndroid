@@ -39,7 +39,7 @@
             android:layout_gravity="center"
             android:elevation="12dp"
             android:thicknessRatio="1.9"
-            blaze:cardCornerRadius="90dp">
+            >
 
             <ImageView
                 android:id="@+id/imageView1"
