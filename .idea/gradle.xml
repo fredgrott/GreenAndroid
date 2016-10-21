@@ -5,7 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="D:\myAndroid\as2.2.1final\android-studio\gradle\gradle-2.14.1" />
+        <option name="gradleHome" value="D:\myAndroid\as2.2.2final\android-studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -69,6 +69,7 @@
             <option value="$PROJECT_DIR$/materialleanbackapp" />
             <option value="$PROJECT_DIR$/materiallist" />
             <option value="$PROJECT_DIR$/materialrangebar" />
+            <option value="$PROJECT_DIR$/materialrangebarapp" />
             <option value="$PROJECT_DIR$/materialscrollbar" />
             <option value="$PROJECT_DIR$/materialscrolling" />
             <option value="$PROJECT_DIR$/materialsearchview" />

@@ -63,6 +63,7 @@
       <module fileurl="file://$PROJECT_DIR$/materialleanbackapp/materialleanbackapp.iml" filepath="$PROJECT_DIR$/materialleanbackapp/materialleanbackapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/materiallist/materiallist.iml" filepath="$PROJECT_DIR$/materiallist/materiallist.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialrangebar/materialrangebar.iml" filepath="$PROJECT_DIR$/materialrangebar/materialrangebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialrangebarapp/materialrangebarapp.iml" filepath="$PROJECT_DIR$/materialrangebarapp/materialrangebarapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialscrollbar/materialscrollbar.iml" filepath="$PROJECT_DIR$/materialscrollbar/materialscrollbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialscrolling/materialscrolling.iml" filepath="$PROJECT_DIR$/materialscrolling/materialscrolling.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialsearchview/materialsearchview.iml" filepath="$PROJECT_DIR$/materialsearchview/materialsearchview.iml" />
