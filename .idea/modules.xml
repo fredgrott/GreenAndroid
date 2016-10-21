@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/discreteseekbar/discreteseekbar.iml" filepath="$PROJECT_DIR$/discreteseekbar/discreteseekbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/discreteseekbarapp/discreteseekbarapp.iml" filepath="$PROJECT_DIR$/discreteseekbarapp/discreteseekbarapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/discrollview/discrollview.iml" filepath="$PROJECT_DIR$/discrollview/discrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discrollviewapp/discrollviewapp.iml" filepath="$PROJECT_DIR$/discrollviewapp/discrollviewapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" filepath="$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/easing/easing.iml" filepath="$PROJECT_DIR$/easing/easing.iml" />
       <module fileurl="file://$PROJECT_DIR$/edittextvalidator/edittextvalidator.iml" filepath="$PROJECT_DIR$/edittextvalidator/edittextvalidator.iml" />
