@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShapeRippleApp</string>
+    <string name="default_ripple_idle">Hello</string>
+    <string name="default_ripple_error">Error</string>
+
+    <string name="ripple_circle">Circle Ripple</string>
+    <string name="ripple_square">Square Ripple</string>
+    <string name="ripple_triangle">Triangle Ripple</string>
+    <string name="ripple_star">Star Ripple</string>
+    <string name="ripples">Ripples</string>
+
+    <string name="version">0.2.0</string>
+
+    <string name="about_description">It is a library that renders an awesome ripple effect with an ability to customize the shapes.
+        \n\nIt can do a lot of things such as random colors, random position, enable single ripple and more to come in the future.</string>
+
+</resources>
