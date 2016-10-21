@@ -78,6 +78,7 @@
       <module fileurl="file://$PROJECT_DIR$/observablescrollview/observablescrollview.iml" filepath="$PROJECT_DIR$/observablescrollview/observablescrollview.iml" />
       <module fileurl="file://$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" filepath="$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/pathview/pathview.iml" filepath="$PROJECT_DIR$/pathview/pathview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pathviewapp/pathviewapp.iml" filepath="$PROJECT_DIR$/pathviewapp/pathviewapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressbutton/progressbutton.iml" filepath="$PROJECT_DIR$/progressbutton/progressbutton.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressbuttonapp/progressbuttonapp.iml" filepath="$PROJECT_DIR$/progressbuttonapp/progressbuttonapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickscroll/quickscroll.iml" filepath="$PROJECT_DIR$/quickscroll/quickscroll.iml" />
