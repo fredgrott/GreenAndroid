@@ -75,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" filepath="$PROJECT_DIR$/octiconstypeface/octiconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/pathview/pathview.iml" filepath="$PROJECT_DIR$/pathview/pathview.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressbutton/progressbutton.iml" filepath="$PROJECT_DIR$/progressbutton/progressbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbuttonapp/progressbuttonapp.iml" filepath="$PROJECT_DIR$/progressbuttonapp/progressbuttonapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickscroll/quickscroll.iml" filepath="$PROJECT_DIR$/quickscroll/quickscroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/rebound/rebound.iml" filepath="$PROJECT_DIR$/rebound/rebound.iml" />
       <module fileurl="file://$PROJECT_DIR$/reveal/reveal.iml" filepath="$PROJECT_DIR$/reveal/reveal.iml" />
