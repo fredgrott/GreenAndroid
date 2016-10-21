@@ -1,0 +1,34 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".NoteActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Additional children for this container are added in .NoteActivity#onCreate(). -->
+        <com.jmedeisis.draglinearlayout.DragLinearLayout
+            android:id="@+id/noteContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="96dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="320dp"
+                android:src="@drawable/cherry_blossom"
+                android:scaleType="centerCrop"
+                android:contentDescription="@string/demo_image_content_description" />
+
+            <TextView
+                android:text="@string/scroll_view_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/ListHeader" />
+
+        </com.jmedeisis.draglinearlayout.DragLinearLayout>
+
+    </ScrollView>
+
+</merge>
