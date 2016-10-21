@@ -67,6 +67,7 @@
       <module fileurl="file://$PROJECT_DIR$/materialscrollbar/materialscrollbar.iml" filepath="$PROJECT_DIR$/materialscrollbar/materialscrollbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialscrolling/materialscrolling.iml" filepath="$PROJECT_DIR$/materialscrolling/materialscrolling.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialsearchview/materialsearchview.iml" filepath="$PROJECT_DIR$/materialsearchview/materialsearchview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialsearchviewapp/materialsearchviewapp.iml" filepath="$PROJECT_DIR$/materialsearchviewapp/materialsearchviewapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/meteoconstypeface/meteoconstypeface.iml" filepath="$PROJECT_DIR$/meteoconstypeface/meteoconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/mpagerslidingtabstrip/mpagerslidingtabstrip.iml" filepath="$PROJECT_DIR$/mpagerslidingtabstrip/mpagerslidingtabstrip.iml" />
       <module fileurl="file://$PROJECT_DIR$/multistateanimation/multistateanimation.iml" filepath="$PROJECT_DIR$/multistateanimation/multistateanimation.iml" />
