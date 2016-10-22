@@ -96,6 +96,7 @@
       <module fileurl="file://$PROJECT_DIR$/slidebutton/slidebutton.iml" filepath="$PROJECT_DIR$/slidebutton/slidebutton.iml" />
       <module fileurl="file://$PROJECT_DIR$/slidebuttonapp/slidebuttonapp.iml" filepath="$PROJECT_DIR$/slidebuttonapp/slidebuttonapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/smoothprogressbar/smoothprogressbar.iml" filepath="$PROJECT_DIR$/smoothprogressbar/smoothprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smoothprogressbarapp/smoothprogressbarapp.iml" filepath="$PROJECT_DIR$/smoothprogressbarapp/smoothprogressbarapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinkit/spinkit.iml" filepath="$PROJECT_DIR$/spinkit/spinkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/springindicator/springindicator.iml" filepath="$PROJECT_DIR$/springindicator/springindicator.iml" />
       <module fileurl="file://$PROJECT_DIR$/squint/squint.iml" filepath="$PROJECT_DIR$/squint/squint.iml" />
