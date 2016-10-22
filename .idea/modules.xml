@@ -101,6 +101,7 @@
       <module fileurl="file://$PROJECT_DIR$/spinkitapp/spinkitapp.iml" filepath="$PROJECT_DIR$/spinkitapp/spinkitapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/springindicator/springindicator.iml" filepath="$PROJECT_DIR$/springindicator/springindicator.iml" />
       <module fileurl="file://$PROJECT_DIR$/squint/squint.iml" filepath="$PROJECT_DIR$/squint/squint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/squintapp/squintapp.iml" filepath="$PROJECT_DIR$/squintapp/squintapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/stateprogressbar/stateprogressbar.iml" filepath="$PROJECT_DIR$/stateprogressbar/stateprogressbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/taptargetview/taptargetview.iml" filepath="$PROJECT_DIR$/taptargetview/taptargetview.iml" />
       <module fileurl="file://$PROJECT_DIR$/tastytoast/tastytoast.iml" filepath="$PROJECT_DIR$/tastytoast/tastytoast.iml" />
