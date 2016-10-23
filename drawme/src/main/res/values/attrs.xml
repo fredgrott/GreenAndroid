@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawMe">
+        <attr name="dm_backColor" format="color"/>
+        <attr name="dm_backColorDisabled" format="color"/>
+        <attr name="dm_backColorPressed" format="color"/>
+        <attr name="dm_maskBrightnessThreshold" format="float"/>
+        <attr name="dm_maskColorPressed" format="color"/>
+        <attr name="dm_maskColorPressedInverse" format="color"/>
+        <attr name="dm_maskColorDisabled" format="color"/>
+        <attr name="dm_radius" format="dimension"/>
+        <attr name="dm_radiusBottomLeft" format="dimension"/>
+        <attr name="dm_radiusBottomRight" format="dimension"/>
+        <attr name="dm_radiusTopLeft" format="dimension"/>
+        <attr name="dm_radiusTopRight" format="dimension"/>
+        <attr name="dm_rippleEffect" format="boolean"/>
+        <attr name="dm_rippleUseControlHighlight" format="boolean"/>
+        <attr name="dm_shapeEqualWidthHeight" format="boolean"/>
+        <attr name="dm_shapeRadiusHalfHeight" format="boolean"/>
+        <attr name="dm_stateDisabled" format="boolean"/>
+        <attr name="dm_statePressed" format="boolean"/>
+        <attr name="dm_stroke" format="dimension"/>
+        <attr name="dm_strokeColor" format="color"/>
+        <attr name="dm_strokeColorDisabled" format="color"/>
+        <attr name="dm_strokeColorPressed" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="DrawMeText">
+        <attr name="android:drawableLeft"/>
+        <attr name="android:drawableStart"/>
+        <attr name="android:drawableEnd"/>
+        <attr name="android:drawableRight"/>
+        <attr name="android:drawableTop"/>
+        <attr name="android:drawableBottom"/>
+        <attr name="dm_drawableTint" format="color"/>
+        <attr name="dm_drawableTintMode" format="integer">
+            <enum name="clear" value="0"/>
+            <enum name="src" value="1"/>
+            <enum name="dst" value="2"/>
+            <enum name="src_over" value="3"/>
+            <enum name="dst_over" value="4"/>
+            <enum name="src_in" value="5"/>
+            <enum name="dst_in" value="6"/>
+            <enum name="src_out" value="7"/>
+            <enum name="dst_out" value="8"/>
+            <enum name="src_atop" value="9"/>
+            <enum name="dst_atop" value="10"/>
+            <enum name="xor" value="11"/>
+            <enum name="darken" value="16"/>
+            <enum name="lighten" value="17"/>
+            <enum name="multiply" value="13"/>
+            <enum name="screen" value="14"/>
+            <enum name="add" value="12"/>
+            <enum name="overlay" value="15"/>
+        </attr>
+        <attr name="dm_font" format="string"/>
+        <attr name="dm_textColor" format="color"/>
+        <attr name="dm_textColorDisabled" format="color"/>
+        <attr name="dm_textColorPressed" format="color"/>
+    </declare-styleable>
+</resources>
+
