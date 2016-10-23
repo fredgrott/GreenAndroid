@@ -107,6 +107,7 @@
       <module fileurl="file://$PROJECT_DIR$/taptargetview/taptargetview.iml" filepath="$PROJECT_DIR$/taptargetview/taptargetview.iml" />
       <module fileurl="file://$PROJECT_DIR$/taptargetviewapp/taptargetviewapp.iml" filepath="$PROJECT_DIR$/taptargetviewapp/taptargetviewapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/tastytoast/tastytoast.iml" filepath="$PROJECT_DIR$/tastytoast/tastytoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tastytoastapp/tastytoastapp.iml" filepath="$PROJECT_DIR$/tastytoastapp/tastytoastapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" filepath="$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" filepath="$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" />
