@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/actionitembadge" />
             <option value="$PROJECT_DIR$/aligned" />
             <option value="$PROJECT_DIR$/androidsupportpreference" />
+            <option value="$PROJECT_DIR$/androidsupportpreferenceapp" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/arcanimator" />
             <option value="$PROJECT_DIR$/blaze" />
@@ -126,6 +127,7 @@
             <option value="$PROJECT_DIR$/viewrevealanimator" />
             <option value="$PROJECT_DIR$/viewrevealanimatorapp" />
             <option value="$PROJECT_DIR$/waveprogressbar" />
+            <option value="$PROJECT_DIR$/waveprogressbarapp" />
             <option value="$PROJECT_DIR$/weathericonstypeface" />
             <option value="$PROJECT_DIR$/zdepth" />
           </set>

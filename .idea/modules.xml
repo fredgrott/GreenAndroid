@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/actionitembadge/actionitembadge.iml" filepath="$PROJECT_DIR$/actionitembadge/actionitembadge.iml" />
       <module fileurl="file://$PROJECT_DIR$/aligned/aligned.iml" filepath="$PROJECT_DIR$/aligned/aligned.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" filepath="$PROJECT_DIR$/androidsupportpreference/androidsupportpreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidsupportpreferenceapp/androidsupportpreferenceapp.iml" filepath="$PROJECT_DIR$/androidsupportpreferenceapp/androidsupportpreferenceapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arcanimator/arcanimator.iml" filepath="$PROJECT_DIR$/arcanimator/arcanimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/blaze/blaze.iml" filepath="$PROJECT_DIR$/blaze/blaze.iml" />
@@ -120,6 +121,7 @@
       <module fileurl="file://$PROJECT_DIR$/viewrevealanimator/viewrevealanimator.iml" filepath="$PROJECT_DIR$/viewrevealanimator/viewrevealanimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewrevealanimatorapp/viewrevealanimatorapp.iml" filepath="$PROJECT_DIR$/viewrevealanimatorapp/viewrevealanimatorapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/waveprogressbar/waveprogressbar.iml" filepath="$PROJECT_DIR$/waveprogressbar/waveprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waveprogressbarapp/waveprogressbarapp.iml" filepath="$PROJECT_DIR$/waveprogressbarapp/waveprogressbarapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" filepath="$PROJECT_DIR$/weathericonstypeface/weathericonstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/zdepth/zdepth.iml" filepath="$PROJECT_DIR$/zdepth/zdepth.iml" />
     </modules>
