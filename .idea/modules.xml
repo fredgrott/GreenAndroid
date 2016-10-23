@@ -113,6 +113,7 @@
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" filepath="$PROJECT_DIR$/typeiconstypeface/typeiconstypeface.iml" />
       <module fileurl="file://$PROJECT_DIR$/verticalstepperform/verticalstepperform.iml" filepath="$PROJECT_DIR$/verticalstepperform/verticalstepperform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verticalstepperformapp/verticalstepperformapp.iml" filepath="$PROJECT_DIR$/verticalstepperformapp/verticalstepperformapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewanim/viewanim.iml" filepath="$PROJECT_DIR$/viewanim/viewanim.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewdecorator/viewdecorator.iml" filepath="$PROJECT_DIR$/viewdecorator/viewdecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagertransforms/viewpagertransforms.iml" filepath="$PROJECT_DIR$/viewpagertransforms/viewpagertransforms.iml" />
