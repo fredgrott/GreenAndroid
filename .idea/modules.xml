@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" filepath="$PROJECT_DIR$/draglinearlayout/draglinearlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/draglinearlayoutapp/draglinearlayoutapp.iml" filepath="$PROJECT_DIR$/draglinearlayoutapp/draglinearlayoutapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawme/drawme.iml" filepath="$PROJECT_DIR$/drawme/drawme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawmeapp/drawmeapp.iml" filepath="$PROJECT_DIR$/drawmeapp/drawmeapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/easing/easing.iml" filepath="$PROJECT_DIR$/easing/easing.iml" />
       <module fileurl="file://$PROJECT_DIR$/edittextvalidator/edittextvalidator.iml" filepath="$PROJECT_DIR$/edittextvalidator/edittextvalidator.iml" />
       <module fileurl="file://$PROJECT_DIR$/entypotypeface/entypotypeface.iml" filepath="$PROJECT_DIR$/entypotypeface/entypotypeface.iml" />
