@@ -119,6 +119,7 @@
       <module fileurl="file://$PROJECT_DIR$/tastytoast/tastytoast.iml" filepath="$PROJECT_DIR$/tastytoast/tastytoast.iml" />
       <module fileurl="file://$PROJECT_DIR$/tastytoastapp/tastytoastapp.iml" filepath="$PROJECT_DIR$/tastytoastapp/tastytoastapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/tooltips/tooltips.iml" filepath="$PROJECT_DIR$/tooltips/tooltips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tooltipsapp/tooltipsapp.iml" filepath="$PROJECT_DIR$/tooltipsapp/tooltipsapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" filepath="$PROJECT_DIR$/transitionseverywhere/transitionseverywhere.iml" />
       <module fileurl="file://$PROJECT_DIR$/transitionseverywhereapp/transitionseverywhereapp.iml" filepath="$PROJECT_DIR$/transitionseverywhereapp/transitionseverywhereapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/typeface/typeface.iml" filepath="$PROJECT_DIR$/typeface/typeface.iml" />
