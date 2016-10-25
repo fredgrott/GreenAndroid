@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2016 Ao (Matthieu Esnault)
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- Common values -->
+    <dimen name="material_button_height_minimum">@dimen/material_baseline_grid_4.5x</dimen>
+    <dimen name="material_button_touch_target_height_minimum">@dimen/material_baseline_grid_6x</dimen>
+    <dimen name="material_button_width_minimum">@dimen/material_baseline_grid_11x</dimen>
+    <dimen name="material_button_padding_horizontal">@dimen/material_baseline_grid_1x</dimen>
+    <dimen name="material_button_gutter_horizontal">@dimen/material_baseline_grid_1x</dimen>
+    <color name="material_button_text_color_disabled_light_theme">@color/material_color_black_26_percent</color>
+    <color name="material_button_text_color_disabled_dark_theme">@color/material_color_white_30_percent</color>
+    <dimen name="material_button_persistent_footer_height">@dimen/material_baseline_grid_6x</dimen>
+
+
+    <!-- Flat button -->
+    <dimen name="material_button_flat_elevation">@dimen/material_elevation_flat_button</dimen>
+    <color name="material_button_flat_background_color_pressed_light_theme">@color/material_button_specific_color_medium_grey_40_percent</color>
+    <color name="material_button_flat_background_color_pressed_dark_theme">@color/material_button_specific_color_light_grey_25_percent</color>
+
+
+    <!-- Raised button -->
+    <dimen name="material_button_raised_elevation_resting">@dimen/material_elevation_raised_button_resting</dimen>
+    <dimen name="material_button_raised_elevation_pressed">@dimen/material_elevation_raised_button_pressed</dimen>
+    <dimen name="material_button_raised_corner_radius">2dp</dimen>
+    <color name="material_button_raised_background_color_disabled_light_theme">@color/material_color_black_12_percent</color>
+    <color name="material_button_raised_background_color_disabled_dark_theme">@color/material_color_white_12_percent</color>
+    <!-- Dark normal background color = 500 swatch -->
+    <!-- Dark pressed background color = 700 swatch -->
+
+
+    <!-- Toggle button -->
+    <color name="material_button_icon_light_theme_light_icon_ripple_color">@color/material_color_white_30_percent</color>
+    <color name="material_button_icon_light_theme_dark_icon_ripple_color">@color/material_color_black_12_percent</color>
+    <color name="material_button_icon_dark_theme_light_icon_ripple_color">@color/material_color_white_20_percent</color>
+    <!-- (light or dark theme) Color icon ripple color = color with 26% opacity -->
+
+
+    <!-- Floating action button -->
+    <dimen name="material_button_fab_size">@dimen/material_baseline_grid_7x</dimen>
+    <dimen name="material_button_fab_icon_size">@dimen/material_baseline_grid_3x</dimen>
+    <dimen name="material_button_fab_mini_size">@dimen/material_baseline_grid_5x</dimen>
+    <dimen name="material_button_fab_mini_icon_size">@dimen/material_button_fab_icon_size</dimen>
+    <dimen name="material_button_fab_edge_margin_horizontal">@dimen/material_content_edge_margin_horizontal</dimen>
+    <dimen name="material_button_fab_edge_margin_vertical">@dimen/material_baseline_grid_2x</dimen>
+
+
+    <!-- Button specific colors -->
+    <!-- As these values are not common, they are only defined here -->
+    <color name="material_button_specific_color_medium_grey_40_percent">#66999999</color>
+    <color name="material_button_specific_color_light_grey_25_percent">#3FCCCCCC</color>
+
+</resources>
